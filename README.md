@@ -50,3 +50,66 @@ The primary benchmark for image recognition models. Contains a training set of 1
 ## links
 * glossary: https://medium.com/@jonathan_hui/rl-reinforcement-learning-terms-242baac11907
 
+# Generative Adversarial Networks, GANS
+## links
+* (colaboratory) [Style Transfer](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb)
+* (colaboratory) [Neural Style Transfer](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb)
+* Draw landscapes [GauGAN AI Art Tool](http://nvidia-research-mingyuliu.com/gaugan)
+* Play with GANs [GAN Lab](https://poloclub.github.io/ganlab/)
+
+
+# Style Transfer
+## `gatys` style transfer
+**source** <https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb>
+
+![style transfer](https://storage.googleapis.com/tensorflow-lucid/static/img/notebook-styletransfer-diagram.png)
+* decodeing style-loss equation, https://miro.medium.com/max/6806/1*kTJm8fSR3n2uooYY0V-vpg.jpeg
+* decodeing content-loss equation, https://miro.medium.com/max/2879/1*CVfjP23JUzWKgLIRkf-2Cw.jpeg
+
+## `johnson` with perceptual losses
+learn a single pass CNN to replicate the slower optimization step of `gatys` style transfer for a given style target.
+
+![perceptual losses](https://miro.medium.com/max/855/1*TdkNFoecrvBZZbLOHGse0Q.png)
+
+**source** <https://towardsdatascience.com/perceptual-losses-for-real-time-style-transfer-and-super-resolution-637b5d93fa6d>
+
+## parameterization tricks
+* non-robust models need parameterization tricks: https://distill.pub/2018/differentiable-parameterizations/
+  * for FFT, see also: [Spectral Representations for Convolutional Neural Networks](https://arxiv.org/pdf/1506.03767.pdf)
+* instance normalization with `johnson`, see: https://arxiv.org/pdf/1607.08022.pdf
+
+## additional works based on Style Transfer
+* robust features work better for non-VGG classifiers: [Neural Style Transfer with Adversarially Robust Classifiers](https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html)
+* applied to video:
+  * [Decrappification, DeOldification, and Super Resolution](https://www.fast.ai/2019/05/03/decrappify/)
+  * https://medium.com/@chimezie.iwuanyanwu/real-time-style-transfer-caffa3393833
+* Neural Painters, 
+  * [Teaching agents to paint inside their own dreams](https://reiinakano.com/2019/01/27/world-painters.html)
+  * https://medium.com/libreai/the-joy-of-neural-painting-e4319282d51f
+* GAN and HD images, https://towardsdatascience.com/style-transfer-with-gans-on-hd-images-88e8efcf3716
+
+
+
+
+
+
+
+# Stroke-Based Rendering (SBR) ideas
+* Neural Painters teach brushstrokes using style-loss, see: https://arxiv.org/pdf/1904.08410.pdf
+  notebooks: https://github.com/reiinakano/neural-painters
+  * with pyTorch and FastAI, https://medium.com/libreai/the-joy-of-neural-painting-e4319282d51f
+  * [Teaching agents to paint inside their own dreams](https://reiinakano.com/2019/01/27/world-painters.html)
+* [learning SVG fonts](https://neurohive.io/en/news/new-method-for-generating-svg-fonts-by-google-brain/), see also: https://arxiv.org/pdf/1904.02632.pdf
+## raster to vector
+* [Potrace](http://potrace.sourceforge.net/)
+
+
+
+
+
+
+
+
+# Places Challenge
+Scene Parsing, Instance Segmentation, Semantic Boundary Detection
+* http://placeschallenge.csail.mit.edu/
