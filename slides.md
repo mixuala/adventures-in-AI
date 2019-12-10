@@ -22,11 +22,15 @@
 
 > show logistic neuron.  too much detail?
 
+		1. datasets and ben
+		2. pre-trained models
+		3. 
+
 5. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzgzNjEyOSwxNjY2NjU5MTg2LC0xND
-U1ODEwOTM5LC0yNTgxMDM5NjcsLTE1MzQ5OTA2NDQsMjA0MDI5
-NzYyMl19
+eyJoaXN0b3J5IjpbMTUyNjk0MTQ5LDE4NzM4MzYxMjksMTY2Nj
+Y1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAzOTY3LC0xNTM0OTkw
+NjQ0LDIwNDAyOTc2MjJdfQ==
 -->
