@@ -12,12 +12,15 @@
 	
 		> decision: action based on predictions
 		
-3. What does it looks like?
+3. What does that looks like?
+
+> show an example of learning by data
+
 4. How does it work?
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NTA4NTg4LC0xNDU1ODEwOTM5LC0yNT
-gxMDM5NjcsLTE1MzQ5OTA2NDQsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMTE3ODEyNjc1MiwtMTQ1NTgxMDkzOSwtMj
+U4MTAzOTY3LC0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
 -->
