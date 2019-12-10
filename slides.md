@@ -41,6 +41,8 @@
 			* GANS
 		3. transfer learning
 
+> transfer learning IRL, closed book, open 
+
 5. Behind the curtain (more detail)
 	* **learning lifecycle:** train/validate/test/deploy
 	* supervised vs. unsupervised learning 
@@ -101,8 +103,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0MzY3NjI1LDE1NTA1NDE0MDMsLTE2Nj
-k3MzIwNjcsLTcwNTUwMjQzMSw4Mjk2MzYyNjIsMTg3OTQ3NDg3
-OSwxODczODM2MTI5LDE2NjY2NTkxODYsLTE0NTU4MTA5MzksLT
-I1ODEwMzk2NywtMTUzNDk5MDY0NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTE1MzI5MTE3MDQsMjQ0MzY3NjI1LDE1NT
+A1NDE0MDMsLTE2Njk3MzIwNjcsLTcwNTUwMjQzMSw4Mjk2MzYy
+NjIsMTg3OTQ3NDg3OSwxODczODM2MTI5LDE2NjY2NTkxODYsLT
+E0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5MDY0NCwyMDQw
+Mjk3NjIyXX0=
 -->
