@@ -97,7 +97,7 @@
 	- path of new ideas/breakthroughs
 
 12. limitations: human error
-	* human level performance, [limitations of machine learning](https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6)
+	* [human level performance](https://towardsdatascience.com/how-to-improve-my-ml-algorithm-lessons-from-andrew-ngs-experience-ii-f66926926f88)
 
 	 
 14. limitations: ethics
@@ -110,7 +110,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Nzc5MzE0NiwxOTI5NTU1NjMyLC03OD
+eyJoaXN0b3J5IjpbMTQzNjcwNTA2MiwxOTI5NTU1NjMyLC03OD
 I3NzMyMTQsNDI0OTgyMzA4LDI0NDM2NzYyNSwxNTUwNTQxNDAz
 LC0xNjY5NzMyMDY3LC03MDU1MDI0MzEsODI5NjM2MjYyLDE4Nz
 k0NzQ4NzksMTg3MzgzNjEyOSwxNjY2NjU5MTg2LC0xNDU1ODEw
