@@ -14,7 +14,9 @@
 		
 3. What does that looks like?
 
-> show an examples of inference, learning by data
+> show examples of inference
+
+> examples of transfer learning
 
 4. How does it really work?
 
@@ -24,6 +26,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjIzODc0MywtMTQ1NTgxMDkzOSwtMj
+eyJoaXN0b3J5IjpbMTY2NjY1OTE4NiwtMTQ1NTgxMDkzOSwtMj
 U4MTAzOTY3LC0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
 -->
