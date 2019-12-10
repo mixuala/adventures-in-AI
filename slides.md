@@ -26,6 +26,8 @@
 4. How does this really work? (a simple example)
 
 > show logistic neuron.  too much detail?
+
+	* featuresweights and bias
 > datasets + pre-trained models = transfer learning
 
 		1. datasets and benchmarks
@@ -40,7 +42,9 @@
 5. Behind the curtain (more detail)
 	* **learning lifecycle:** train/validate/test/deploy
 	* supervised vs. unsupervised learning 
+	* everything is a number
 	* loss equations determine what is learned
+	* 
 	* learning with gradient descent
 ![gradient descent](https://easyai.tech/wp-content/uploads/2019/01/tiduxiajiang-1.png)
 	* 
@@ -91,7 +95,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MTkwMzQ4LC0xNjY5NzMyMDY3LC03MD
+eyJoaXN0b3J5IjpbNTc4Nzc2MjczLC0xNjY5NzMyMDY3LC03MD
 U1MDI0MzEsODI5NjM2MjYyLDE4Nzk0NzQ4NzksMTg3MzgzNjEy
 OSwxNjY2NjU5MTg2LC0xNDU1ODEwOTM5LC0yNTgxMDM5NjcsLT
 E1MzQ5OTA2NDQsMjA0MDI5NzYyMl19
