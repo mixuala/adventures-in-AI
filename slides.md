@@ -78,7 +78,8 @@
 	- ImageNet breakthroughs
 	- path of new ideas/breakthroughs
 
-10. ethics
+10. Adversarial Examples
+11. ethics
 	* where does data come from?
 	* bias in labeled datasets
 	* bias in unsupervised learning
@@ -88,8 +89,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4Nzk0MTEwLDgyOTYzNjI2MiwxODc5ND
-c0ODc5LDE4NzM4MzYxMjksMTY2NjY1OTE4NiwtMTQ1NTgxMDkz
-OSwtMjU4MTAzOTY3LC0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ
-==
+eyJoaXN0b3J5IjpbLTcwNTUwMjQzMSw4Mjk2MzYyNjIsMTg3OT
+Q3NDg3OSwxODczODM2MTI5LDE2NjY2NTkxODYsLTE0NTU4MTA5
+MzksLTI1ODEwMzk2NywtMTUzNDk5MDY0NCwyMDQwMjk3NjIyXX
+0=
 -->
