@@ -16,9 +16,9 @@
 
 > show example of inference
 
-> examples of transfer learning
+> example of transfer learning, train on a dataset
 
-4. How does it really work?
+4. How does this really work?
 
 > show logistic neuron.  too much detail?
 
@@ -26,7 +26,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTAyMDkzNywxNjY2NjU5MTg2LC0xND
+eyJoaXN0b3J5IjpbMTg3MzgzNjEyOSwxNjY2NjU5MTg2LC0xND
 U1ODEwOTM5LC0yNTgxMDM5NjcsLTE1MzQ5OTA2NDQsMjA0MDI5
 NzYyMl19
 -->
