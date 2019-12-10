@@ -6,6 +6,8 @@
 2. What is it?
 	CS: tell a computer what to do by programming it step-by-step
 	ML: teach a computer to make decisions by learning hidden patterns in data
+	
+		> decision: action based on predictions
 		
 3. What does it looks like?
 4. How does it work?
@@ -13,6 +15,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODkxNjE1ODUsLTI1ODEwMzk2NywtMT
+eyJoaXN0b3J5IjpbLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMT
 UzNDk5MDY0NCwyMDQwMjk3NjIyXX0=
 -->
