@@ -35,12 +35,15 @@
 5. Behind the curtain (more detail)
 	* **learning lifecycle:** train/validate/test/deploy
 	*  
-
+6. pre-trained models
+	- CNN
+	- 
+7. 
 > talk about 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDgyNTYzMywxODczODM2MTI5LDE2Nj
-Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
-MDY0NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTEzNTg1NDk0NTgsMTg3MzgzNjEyOSwxNj
+Y2NjU5MTg2LC0xNDU1ODEwOTM5LC0yNTgxMDM5NjcsLTE1MzQ5
+OTA2NDQsMjA0MDI5NzYyMl19
 -->
