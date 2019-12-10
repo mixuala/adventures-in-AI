@@ -27,7 +27,9 @@
 
 > show logistic neuron.  too much detail?
 
-	* featuresweights and bias
+	* features: made of weights and bias
+	* what is actually learned?
+	
 > datasets + pre-trained models = transfer learning
 
 		1. datasets and benchmarks
@@ -95,7 +97,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4Nzc2MjczLC0xNjY5NzMyMDY3LC03MD
+eyJoaXN0b3J5IjpbLTM1MDY0MDE0LC0xNjY5NzMyMDY3LC03MD
 U1MDI0MzEsODI5NjM2MjYyLDE4Nzk0NzQ4NzksMTg3MzgzNjEy
 OSwxNjY2NjU5MTg2LC0xNDU1ODEwOTM5LC0yNTgxMDM5NjcsLT
 E1MzQ5OTA2NDQsMjA0MDI5NzYyMl19
