@@ -24,12 +24,12 @@
 
 
 4. How does this really work? (a simple example)
-![animated CNN](https://miro.medium.com/max/1920/1*eEKb2RxREV6-MtLz2DNWFQ.gif)
-![p](https://miro.medium.com/max/1435/1*n6sJ4yZQzwKL9wnF5wnVNg.png)
-> show logistic neuron.  too much detail?
 
 	* features: made of weights and bias
-	* what is actually learned?
+![perceptron](https://miro.medium.com/max/1435/1*n6sJ4yZQzwKL9wnF5wnVNg.png)	
+	* millions of them hooked together
+![animated CNN](https://miro.medium.com/max/1920/1*eEKb2RxREV6-MtLz2DNWFQ.gif)
+	* what is actually learned? the model and the weights
 	
 > datasets + pre-trained models = transfer learning
 
@@ -104,7 +104,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDk2ODA5MCwtNzgyNzczMjE0LDQyND
+eyJoaXN0b3J5IjpbLTY3OTc4NDkxMCwtNzgyNzczMjE0LDQyND
 k4MjMwOCwyNDQzNjc2MjUsMTU1MDU0MTQwMywtMTY2OTczMjA2
 NywtNzA1NTAyNDMxLDgyOTYzNjI2MiwxODc5NDc0ODc5LDE4Nz
 M4MzYxMjksMTY2NjY1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAz
