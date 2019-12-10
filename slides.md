@@ -54,7 +54,7 @@
 		* **variance**: how much predictions change as the data changes (over-fitting)
 	* Petaflop/sec-day
 
-7. Hidden Patterns in data, 
+7. What is Hiding in the Data, 
 	* what does the model see? 
 		* What does the network see? 
 ![enter image description here](https://distill.pub/2018/building-blocks/examples/activations/dog_cat/mixed4d.jpeg)
@@ -91,8 +91,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk3MzIwNjcsLTcwNTUwMjQzMSw4Mj
-k2MzYyNjIsMTg3OTQ3NDg3OSwxODczODM2MTI5LDE2NjY2NTkx
-ODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5MDY0NC
-wyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbNjg4MTkwMzQ4LC0xNjY5NzMyMDY3LC03MD
+U1MDI0MzEsODI5NjM2MjYyLDE4Nzk0NzQ4NzksMTg3MzgzNjEy
+OSwxNjY2NjU5MTg2LC0xNDU1ODEwOTM5LC0yNTgxMDM5NjcsLT
+E1MzQ5OTA2NDQsMjA0MDI5NzYyMl19
 -->
