@@ -49,7 +49,7 @@
 	* life in n-dimensions
 		* dimensionality reduction video
 	* data, data, data
-		* over
+		* bias and variance: overfitting is bad
 	* Petaflop/sec-day
 
 7. different models for different tasks
@@ -71,7 +71,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDIwNjUzOCwxODczODM2MTI5LDE2Nj
+eyJoaXN0b3J5IjpbMTU5ODA1NDA4NSwxODczODM2MTI5LDE2Nj
 Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
 MDY0NCwyMDQwMjk3NjIyXX0=
 -->
