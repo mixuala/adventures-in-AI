@@ -54,11 +54,13 @@
 		* **variance**: how much predictions change as the data changes (over-fitting)
 	* Petaflop/sec-day
 
-7. Hidden Patterns in data
+7. Hidden Patterns in data, 
 	* what does the model see? 
-		* What does the network see? [https://distill.pub/2018/building-blocks/](https://distill.pub/2018/building-blocks/)
+		* What does the network see? 
+![enter image description here](https://distill.pub/2018/building-blocks/examples/activations/dog_cat/mixed4d.jpeg)
+		* [https://distill.pub/2018/building-blocks/](https://distill.pub/2018/building-blocks/)
 	* word math with word2vec
-	*  
+	*  	
 
 8. different models for different tasks
 	- feed forward
@@ -86,7 +88,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5NjM2MjYyLDE4Nzk0NzQ4NzksMTg3Mz
-gzNjEyOSwxNjY2NjU5MTg2LC0xNDU1ODEwOTM5LC0yNTgxMDM5
-NjcsLTE1MzQ5OTA2NDQsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMzI4Nzk0MTEwLDgyOTYzNjI2MiwxODc5ND
+c0ODc5LDE4NzM4MzYxMjksMTY2NjY1OTE4NiwtMTQ1NTgxMDkz
+OSwtMjU4MTAzOTY3LC0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ
+==
 -->
