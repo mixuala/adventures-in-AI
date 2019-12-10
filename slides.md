@@ -24,7 +24,7 @@
 
 
 4. How does this really work? (a simple example)
-
+![enter image description here](https://www.doc.ic.ac.uk/~jce317/content-images/perceptronv2.png)
 > show logistic neuron.  too much detail?
 
 	* features: made of weights and bias
@@ -103,9 +103,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0OTgyMzA4LDI0NDM2NzYyNSwxNTUwNT
-QxNDAzLC0xNjY5NzMyMDY3LC03MDU1MDI0MzEsODI5NjM2MjYy
-LDE4Nzk0NzQ4NzksMTg3MzgzNjEyOSwxNjY2NjU5MTg2LC0xND
-U1ODEwOTM5LC0yNTgxMDM5NjcsLTE1MzQ5OTA2NDQsMjA0MDI5
-NzYyMl19
+eyJoaXN0b3J5IjpbLTc4Mjc3MzIxNCw0MjQ5ODIzMDgsMjQ0Mz
+Y3NjI1LDE1NTA1NDE0MDMsLTE2Njk3MzIwNjcsLTcwNTUwMjQz
+MSw4Mjk2MzYyNjIsMTg3OTQ3NDg3OSwxODczODM2MTI5LDE2Nj
+Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
+MDY0NCwyMDQwMjk3NjIyXX0=
 -->
