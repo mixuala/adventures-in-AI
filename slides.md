@@ -41,7 +41,7 @@
 			* GANS
 		3. transfer learning
 
-> transfer learning IRL, closed book, open 
+> transfer learning IRL: closed book, open book, lifeline, hey siri
 
 5. Behind the curtain (more detail)
 	* **learning lifecycle:** train/validate/test/deploy
@@ -103,9 +103,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI5MTE3MDQsMjQ0MzY3NjI1LDE1NT
-A1NDE0MDMsLTE2Njk3MzIwNjcsLTcwNTUwMjQzMSw4Mjk2MzYy
-NjIsMTg3OTQ3NDg3OSwxODczODM2MTI5LDE2NjY2NTkxODYsLT
-E0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5MDY0NCwyMDQw
-Mjk3NjIyXX0=
+eyJoaXN0b3J5IjpbNDI0OTgyMzA4LDI0NDM2NzYyNSwxNTUwNT
+QxNDAzLC0xNjY5NzMyMDY3LC03MDU1MDI0MzEsODI5NjM2MjYy
+LDE4Nzk0NzQ4NzksMTg3MzgzNjEyOSwxNjY2NjU5MTg2LC0xND
+U1ODEwOTM5LC0yNTgxMDM5NjcsLTE1MzQ5OTA2NDQsMjA0MDI5
+NzYyMl19
 -->
