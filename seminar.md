@@ -198,7 +198,8 @@ higher capacity models: test, study first, open book test, use internet, ask sir
 over-fitting: diagonal
 
 ## Colab Notebooks
-[What does the network see?](https://stackedit.io/app#providerId=githubWorkspace&owner=mixuala&repo=adventures-in-AI&branch=master) 
+What does the network see? [https://distill.pub/2018/building-blocks/](https://distill.pub/2018/building-blocks/)
+
 
 ## Quotes
 [back to top](#TOC)
@@ -279,5 +280,5 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkyNzc2NTddfQ==
+eyJoaXN0b3J5IjpbLTE1ODQ0OTg1MzVdfQ==
 -->
