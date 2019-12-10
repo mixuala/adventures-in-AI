@@ -64,16 +64,18 @@
 8. how do you teach the right things?
 
 > ImageNet: learning breakthroughs by model architecture
-> 
+> model architecture and loss equations
+
 9. It's an art, not a science
 	- ImageNet breakthroughs
-	- path of new ideas
-10. 
+	- path of new ideas/breakthroughs
+
+10. ethics
 > talk about 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Nzc1MDY4NSwxODczODM2MTI5LDE2Nj
+eyJoaXN0b3J5IjpbMjExMjk3MTAzMCwxODczODM2MTI5LDE2Nj
 Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
 MDY0NCwyMDQwMjk3NjIyXX0=
 -->
