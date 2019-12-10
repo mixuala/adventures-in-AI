@@ -1,9 +1,10 @@
 # TOC
 1. [Basics](#Basics)
-1. [Quotes](#Quotes)
-1. [Interesting](#Interesting)
-1. [Ethics and Issues](#Ethics-and-Issues)
-1. [Glossary](#Glossary)
+2. [
+3. [Quotes](#Quotes)
+4. [Interesting](#Interesting)
+5. [Ethics and Issues](#Ethics-and-Issues)
+6. [Glossary](#Glossary)
 
 
 ## Big Picture
@@ -276,3 +277,6 @@ training data
 * impact on society
   * 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0ODQyOTUzMDVdfQ==
+-->
