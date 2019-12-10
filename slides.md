@@ -47,8 +47,9 @@
 
 6. Why does this work? 
 	* life in n-dimensions
-		* dimensionality reduction video
 		* **bias**: predictions made without considering all the patterns hidden in the data
+		* dimensionality reduction video
+		* how much is a billion?
 	* data, data, data
 		* **variance**: how much predictions change as the data changes (over-fitting)
 	* Petaflop/sec-day
@@ -72,7 +73,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwOTMwMDkxLDE4NzM4MzYxMjksMTY2Nj
-Y1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAzOTY3LC0xNTM0OTkw
-NjQ0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTM2Nzc1MDY4NSwxODczODM2MTI5LDE2Nj
+Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
+MDY0NCwyMDQwMjk3NjIyXX0=
 -->
