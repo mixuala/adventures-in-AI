@@ -33,12 +33,14 @@
 		3. transfer learning
 
 5. Behind the curtain (more detail)
-	* **lifecycle:** train/validate/test/deploy
+	* **learning lifecycle:** train/validate/test/deploy
 	*  
+
+> talk about 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDAzNTkzMiwxODczODM2MTI5LDE2Nj
+eyJoaXN0b3J5IjpbMjA5NDgyNTYzMywxODczODM2MTI5LDE2Nj
 Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
 MDY0NCwyMDQwMjk3NjIyXX0=
 -->
