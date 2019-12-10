@@ -14,13 +14,16 @@
 		
 3. What does that looks like?
 
-> show an example of learning by data
+> show an examples of inference, learning by data
 
-4. How does it work?
+4. How does it really work?
 
+> show logistic neuron.  too much detail?
+
+5. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODEyNjc1MiwtMTQ1NTgxMDkzOSwtMj
+eyJoaXN0b3J5IjpbMTY0MjIzODc0MywtMTQ1NTgxMDkzOSwtMj
 U4MTAzOTY3LC0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
 -->
