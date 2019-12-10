@@ -35,18 +35,23 @@
 5. Behind the curtain (more detail)
 	* **learning lifecycle:** train/validate/test/deploy
 	*  
+
 6. different models for different tasks
 	- feed forward
 	- CNN
 	- RL
 	- GANS
 	- RNN/LSTM/attention
-7. 
+
+7. how do you teach the 
+8. It's an art, not a science
+	- ImageNet breakthroughs
+9. 
 > talk about 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDE1MjY0MywxODczODM2MTI5LDE2Nj
+eyJoaXN0b3J5IjpbMTAzNjEyNDkxMywxODczODM2MTI5LDE2Nj
 Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
 MDY0NCwyMDQwMjk3NjIyXX0=
 -->
