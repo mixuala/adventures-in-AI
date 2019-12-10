@@ -233,6 +233,8 @@ Hugging Face
 
 ## Ethics and Issues 
 [back to top](#TOC)
+> limitations: [https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6](https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6)
+
 * bias
 * skynet
 * universal basic income
@@ -280,5 +282,6 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjY2NTU2NiwzMzQwMDc3MTJdfQ==
+eyJoaXN0b3J5IjpbNTc1MzAyNjkyLDE1OTY2NjU1NjYsMzM0MD
+A3NzEyXX0=
 -->
