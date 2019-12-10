@@ -56,6 +56,7 @@
 
 7. Hidden Patterns in data
 	* what does the model see? 
+		* What does the network see? [https://distill.pub/2018/building-blocks/](https://distill.pub/2018/building-blocks/)
 	* word math with word2vec
 	*  
 
@@ -85,7 +86,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTAzNDU1NywxODc5NDc0ODc5LDE4Nz
-M4MzYxMjksMTY2NjY1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAz
-OTY3LC0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbODI5NjM2MjYyLDE4Nzk0NzQ4NzksMTg3Mz
+gzNjEyOSwxNjY2NjU5MTg2LC0xNDU1ODEwOTM5LC0yNTgxMDM5
+NjcsLTE1MzQ5OTA2NDQsMjA0MDI5NzYyMl19
 -->
