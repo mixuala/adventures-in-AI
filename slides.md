@@ -100,7 +100,8 @@
 	* [human level performance](https://towardsdatascience.com/how-to-improve-my-ml-algorithm-lessons-from-andrew-ngs-experience-ii-f66926926f88)
 
 	 
-14. limitations: ethics
+13. limitations: ethics
+	see: [limitations](https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6)
 	* where does data come from?
 	* bias in labeled datasets
 	* bias in unsupervised learning
@@ -110,7 +111,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjcwNTA2MiwxOTI5NTU1NjMyLC03OD
+eyJoaXN0b3J5IjpbMTQxMDU3MDM4NywxOTI5NTU1NjMyLC03OD
 I3NzMyMTQsNDI0OTgyMzA4LDI0NDM2NzYyNSwxNTUwNTQxNDAz
 LC0xNjY5NzMyMDY3LC03MDU1MDI0MzEsODI5NjM2MjYyLDE4Nz
 k0NzQ4NzksMTg3MzgzNjEyOSwxNjY2NjU5MTg2LC0xNDU1ODEw
