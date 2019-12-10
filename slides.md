@@ -43,8 +43,11 @@
 	* loss equations determine what is learned
 	* optimization with gradient descent
 
-6. How can this work? 
+6. Why does this work? 
 	* life in n-dimensions
+	* >
+	* data, data, data
+	* PetaFlop/sec-year
 
 7. different models for different tasks
 	- feed forward
@@ -65,7 +68,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTQ4ODM2NSwxODczODM2MTI5LDE2Nj
-Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
-MDY0NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbNTU5MjgxMjU1LDE4NzM4MzYxMjksMTY2Nj
+Y1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAzOTY3LC0xNTM0OTkw
+NjQ0LDIwNDAyOTc2MjJdfQ==
 -->
