@@ -51,7 +51,8 @@
 		* dimensionality reduction video
 		* how much is a billion?
 	* data, data, data
-		* **variance**: how much predictions change as the data changes (over-fitting)
+		* **variance**: how much predictions change as the data
+		*  changes (over-fitting)
 	* Petaflop/sec-day
 
 7. different models for different tasks
@@ -80,7 +81,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTQ3NDg3OSwxODczODM2MTI5LDE2Nj
-Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
-MDY0NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTYxODQ3MDE5OSwxODc5NDc0ODc5LDE4Nz
+M4MzYxMjksMTY2NjY1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAz
+OTY3LC0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
 -->
