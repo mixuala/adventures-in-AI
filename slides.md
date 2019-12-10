@@ -45,7 +45,7 @@
 
 6. Why does this work? 
 	* life in n-dimensions
-	* >
+		* dimensionality reduction video
 	* data, data, data
 	* PetaFlop/sec-year
 
@@ -68,7 +68,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5MjgxMjU1LDE4NzM4MzYxMjksMTY2Nj
-Y1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAzOTY3LC0xNTM0OTkw
-NjQ0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE3Njk2NTc0ODIsMTg3MzgzNjEyOSwxNj
+Y2NjU5MTg2LC0xNDU1ODEwOTM5LC0yNTgxMDM5NjcsLTE1MzQ5
+OTA2NDQsMjA0MDI5NzYyMl19
 -->
