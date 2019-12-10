@@ -199,7 +199,7 @@ over-fitting: diagonal
 
 ## Colab Notebooks
 What does the network see? [https://distill.pub/2018/building-blocks/](https://distill.pub/2018/building-blocks/)
-> how	activations at different layers influce
+> how	activations at different layers influence decisions
 
 ## Quotes
 [back to top](#TOC)
@@ -280,5 +280,5 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzMTk2MjI0XX0=
+eyJoaXN0b3J5IjpbMzM0MDA3NzEyXX0=
 -->
