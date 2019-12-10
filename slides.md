@@ -21,19 +21,22 @@
 4. How does this really work?
 
 > show logistic neuron.  too much detail?
+> datasets + pre-trained models = transfer le
 
 		1. datasets and benchmarks
 			* CiFAR, ImageNet
-		2. pre-trained models/embeddings
-			* CNN
-			* 
-		3. 
+		2. pre-trained models and embeddings
+			* image recognition
+			* BERT, word2vec
+			* RL
+			* GANS
+		3. transfer learning
 
 5. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzkwODcwNywxODczODM2MTI5LDE2Nj
-Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
-MDY0NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTEwMzc4MjU1NTcsMTg3MzgzNjEyOSwxNj
+Y2NjU5MTg2LC0xNDU1ODEwOTM5LC0yNTgxMDM5NjcsLTE1MzQ5
+OTA2NDQsMjA0MDI5NzYyMl19
 -->
