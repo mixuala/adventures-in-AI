@@ -71,11 +71,13 @@
 	- path of new ideas/breakthroughs
 
 10. ethics
-> talk about 
+	* bias in labeled datasets
+	* bias in unsupervised learning
+> bias in datasets
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjk3MTAzMCwxODczODM2MTI5LDE2Nj
+eyJoaXN0b3J5IjpbMTg3NzAwMTM5NywxODczODM2MTI5LDE2Nj
 Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
 MDY0NCwyMDQwMjk3NjIyXX0=
 -->
