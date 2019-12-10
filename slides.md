@@ -78,7 +78,7 @@
 	* robust vs non-robust features
 	* adversarial examples
 	* attribution, disentanglement, 
-	* limits of human 
+
 
 9. different models for different tasks
 	- feed forward
@@ -92,11 +92,14 @@
 	> ImageNet: learning breakthroughs by model architecture
 	> model architecture and loss equations
 
-1. It's an art, not a science
+11. It's an art, not a science
 	- ImageNet breakthroughs
 	- path of new ideas/breakthroughs
 
-11. ethics
+12. limitations: human error
+
+	 
+14. limitations: ethics
 	* where does data come from?
 	* bias in labeled datasets
 	* bias in unsupervised learning
@@ -106,9 +109,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODE0NDkwMSwtNzgyNzczMjE0LDQyND
-k4MjMwOCwyNDQzNjc2MjUsMTU1MDU0MTQwMywtMTY2OTczMjA2
-NywtNzA1NTAyNDMxLDgyOTYzNjI2MiwxODc5NDc0ODc5LDE4Nz
-M4MzYxMjksMTY2NjY1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAz
-OTY3LC0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE3OTczNTczOTMsLTc4Mjc3MzIxNCw0Mj
+Q5ODIzMDgsMjQ0MzY3NjI1LDE1NTA1NDE0MDMsLTE2Njk3MzIw
+NjcsLTcwNTUwMjQzMSw4Mjk2MzYyNjIsMTg3OTQ3NDg3OSwxOD
+czODM2MTI5LDE2NjY2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEw
+Mzk2NywtMTUzNDk5MDY0NCwyMDQwMjk3NjIyXX0=
 -->
