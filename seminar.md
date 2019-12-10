@@ -1,6 +1,6 @@
 # TOC
 1. [Basics](#Basics)
-2. [
+2. [Colab notebooks](#colab-notebooks)
 3. [Quotes](#Quotes)
 4. [Interesting](#Interesting)
 5. [Ethics and Issues](#Ethics-and-Issues)
@@ -197,6 +197,7 @@ back propagation: change answer to get fewer wrong
 higher capacity models: test, study first, open book test, use internet, ask siri
 over-fitting: diagonal
 
+## Colab Notebooks
 
 
 ## Quotes
@@ -278,5 +279,5 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQyOTUzMDVdfQ==
+eyJoaXN0b3J5IjpbMTc4NDQxNTUwNF19
 -->
