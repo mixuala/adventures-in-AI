@@ -60,7 +60,7 @@
 		* **variance**: how much predictions change as the data changes (over-fitting)
 	* Petaflop/sec-day
 
-7. What is Hiding in the Data, 
+7. What is Hiding in the Data?
 	* what does the model see? 
 		* What does the network see? 
 ![enter image description here](https://distill.pub/2018/building-blocks/examples/activations/dog_cat/mixed4d.jpeg)
@@ -83,15 +83,14 @@
 	- RNN/LSTM/attention
 
 10. How do you learn something useful?
+	
+	> ImageNet: learning breakthroughs by model architecture
+	> model architecture and loss equations
 
-> ImageNet: learning breakthroughs by model architecture
-> model architecture and loss equations
-
-9. It's an art, not a science
+1. It's an art, not a science
 	- ImageNet breakthroughs
 	- path of new ideas/breakthroughs
 
-10. Adversarial Examples
 11. ethics
 	* where does data come from?
 	* bias in labeled datasets
@@ -102,8 +101,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjMyNjAyMiwxNTUwNTQxNDAzLC0xNj
-Y5NzMyMDY3LC03MDU1MDI0MzEsODI5NjM2MjYyLDE4Nzk0NzQ4
-NzksMTg3MzgzNjEyOSwxNjY2NjU5MTg2LC0xNDU1ODEwOTM5LC
-0yNTgxMDM5NjcsLTE1MzQ5OTA2NDQsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMjQ0MzY3NjI1LDE1NTA1NDE0MDMsLTE2Nj
+k3MzIwNjcsLTcwNTUwMjQzMSw4Mjk2MzYyNjIsMTg3OTQ3NDg3
+OSwxODczODM2MTI5LDE2NjY2NTkxODYsLTE0NTU4MTA5MzksLT
+I1ODEwMzk2NywtMTUzNDk5MDY0NCwyMDQwMjk3NjIyXX0=
 -->
