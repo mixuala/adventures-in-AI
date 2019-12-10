@@ -266,7 +266,7 @@ https://www.igrc.eu/news/ai-is-changing-the-entire-nature-of-compute/
 * computers are making decisions that affect your daily life
   * newsfeed,
   * advertising
-  * face detection, image recognition, snapchat filters, photography: low-light, portrait mode, 
+  * face detection, image recognition, snapchat filters, photography: low-light, portrait mode, Face ID
   * language translation, spell/grammar check, alexa/siri/hey google
   * self-driving cars
 * ML is how computers recognize patterns and make decisions by learning on data
@@ -280,5 +280,5 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0MDA3NzEyXX0=
+eyJoaXN0b3J5IjpbMTU5NjY2NTU2NiwzMzQwMDc3MTJdfQ==
 -->
