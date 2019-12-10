@@ -77,7 +77,7 @@
 8. What did we really learn?
 	* robust vs non-robust features
 	* adversarial examples
-	* attribution, disentanglement, 
+	* attribution, disentanglement,  interpretability
 
 
 9. different models for different tasks
@@ -109,9 +109,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTczNTczOTMsLTc4Mjc3MzIxNCw0Mj
-Q5ODIzMDgsMjQ0MzY3NjI1LDE1NTA1NDE0MDMsLTE2Njk3MzIw
-NjcsLTcwNTUwMjQzMSw4Mjk2MzYyNjIsMTg3OTQ3NDg3OSwxOD
-czODM2MTI5LDE2NjY2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEw
-Mzk2NywtMTUzNDk5MDY0NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTkyOTU1NTYzMiwtNzgyNzczMjE0LDQyND
+k4MjMwOCwyNDQzNjc2MjUsMTU1MDU0MTQwMywtMTY2OTczMjA2
+NywtNzA1NTAyNDMxLDgyOTYzNjI2MiwxODc5NDc0ODc5LDE4Nz
+M4MzYxMjksMTY2NjY1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAz
+OTY3LC0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
 -->
