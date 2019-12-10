@@ -52,7 +52,8 @@
 	* loss equations determine what is learned
 	* learning with gradient descent
 ![gradient descent](https://easyai.tech/wp-content/uploads/2019/01/tiduxiajiang-1.png)
-	* 
+	* metrics
+	* deployment & inference
 
 6. Why does this work? 
 	* life in n-dimensions
@@ -77,6 +78,7 @@
 	* robust vs non-robust features
 	* adversarial examples
 	* attribution, disentanglement, 
+	* limits of human 
 
 9. different models for different tasks
 	- feed forward
@@ -104,7 +106,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTc4NDkxMCwtNzgyNzczMjE0LDQyND
+eyJoaXN0b3J5IjpbMTEzODE0NDkwMSwtNzgyNzczMjE0LDQyND
 k4MjMwOCwyNDQzNjc2MjUsMTU1MDU0MTQwMywtMTY2OTczMjA2
 NywtNzA1NTAyNDMxLDgyOTYzNjI2MiwxODc5NDc0ODc5LDE4Nz
 M4MzYxMjksMTY2NjY1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAz
