@@ -34,7 +34,9 @@
 
 5. Behind the curtain (more detail)
 	* **learning lifecycle:** train/validate/test/deploy
-	*  
+	* supervised vs. unsupervised learning 
+	* loss equations determine what is learned
+	* optimization with gradient d
 
 6. different models for different tasks
 	- feed forward
@@ -43,15 +45,18 @@
 	- GANS
 	- RNN/LSTM/attention
 
-7. how do you teach the 
-8. It's an art, not a science
+7. how do you teach the right things?
+
+> Imagenet learning breakthroughs by model
+> 
+9. It's an art, not a science
 	- ImageNet breakthroughs
-9. 
+10. 
 > talk about 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjEyNDkxMywxODczODM2MTI5LDE2Nj
-Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
-MDY0NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbNTE3OTg5NzI2LDE4NzM4MzYxMjksMTY2Nj
+Y1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAzOTY3LC0xNTM0OTkw
+NjQ0LDIwNDAyOTc2MjJdfQ==
 -->
