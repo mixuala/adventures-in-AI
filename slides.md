@@ -13,7 +13,7 @@
 		> decision: action based on predictions
 		
 3. What does that looks like?
-
+[http://playground.tensorflow.org/](http://playground.tensorflow.org/)
 > show example of inference
 
 
@@ -111,10 +111,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDU3MDM4NywxOTI5NTU1NjMyLC03OD
-I3NzMyMTQsNDI0OTgyMzA4LDI0NDM2NzYyNSwxNTUwNTQxNDAz
-LC0xNjY5NzMyMDY3LC03MDU1MDI0MzEsODI5NjM2MjYyLDE4Nz
-k0NzQ4NzksMTg3MzgzNjEyOSwxNjY2NjU5MTg2LC0xNDU1ODEw
-OTM5LC0yNTgxMDM5NjcsLTE1MzQ5OTA2NDQsMjA0MDI5NzYyMl
-19
+eyJoaXN0b3J5IjpbMTg3MDk0NTI5MiwxNDEwNTcwMzg3LDE5Mj
+k1NTU2MzIsLTc4Mjc3MzIxNCw0MjQ5ODIzMDgsMjQ0MzY3NjI1
+LDE1NTA1NDE0MDMsLTE2Njk3MzIwNjcsLTcwNTUwMjQzMSw4Mj
+k2MzYyNjIsMTg3OTQ3NDg3OSwxODczODM2MTI5LDE2NjY2NTkx
+ODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5MDY0NC
+wyMDQwMjk3NjIyXX0=
 -->
