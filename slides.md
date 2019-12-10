@@ -16,7 +16,12 @@
 
 > show example of inference
 
+
 > example of transfer learning, train on a dataset
+
+
+
+
 
 4. How does this really work? (a simple example)
 
@@ -35,8 +40,9 @@
 5. Behind the curtain (more detail)
 	* **learning lifecycle:** train/validate/test/deploy
 	* supervised vs. unsupervised learning 
+	* life in n-dimensions
 	* loss equations determine what is learned
-	* optimization with gradient d
+	* optimization with gradient descent
 
 6. different models for different tasks
 	- feed forward
@@ -47,16 +53,17 @@
 
 7. how do you teach the right things?
 
-> Imagenet learning breakthroughs by model
+> ImageNet: learning breakthroughs by model architecture
 > 
 9. It's an art, not a science
 	- ImageNet breakthroughs
+	- path of new ideas
 10. 
 > talk about 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3OTg5NzI2LDE4NzM4MzYxMjksMTY2Nj
-Y1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAzOTY3LC0xNTM0OTkw
-NjQ0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTMyMjY1MDg4NSwxODczODM2MTI5LDE2Nj
+Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
+MDY0NCwyMDQwMjk3NjIyXX0=
 -->
