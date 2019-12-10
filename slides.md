@@ -70,14 +70,19 @@
 	* word math with word2vec
 	*  	
 
-8. different models for different tasks
+8. What did we really learn?
+	* robust vs non-robust features
+	* adversarial examples
+	* attribution, disentanglement, 
+
+9. different models for different tasks
 	- feed forward
 	- CNN
 	- RL
 	- GANS
 	- RNN/LSTM/attention
 
-9. how do you teach the right things?
+10. How do you learn something useful?
 
 > ImageNet: learning breakthroughs by model architecture
 > model architecture and loss equations
@@ -97,8 +102,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDU0MTQwMywtMTY2OTczMjA2NywtNz
-A1NTAyNDMxLDgyOTYzNjI2MiwxODc5NDc0ODc5LDE4NzM4MzYx
-MjksMTY2NjY1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAzOTY3LC
-0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTMxMjMyNjAyMiwxNTUwNTQxNDAzLC0xNj
+Y5NzMyMDY3LC03MDU1MDI0MzEsODI5NjM2MjYyLDE4Nzk0NzQ4
+NzksMTg3MzgzNjEyOSwxNjY2NjU5MTg2LC0xNDU1ODEwOTM5LC
+0yNTgxMDM5NjcsLTE1MzQ5OTA2NDQsMjA0MDI5NzYyMl19
 -->
