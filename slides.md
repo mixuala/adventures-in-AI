@@ -60,7 +60,7 @@
 ![enter image description here](https://distill.pub/2018/building-blocks/examples/activations/dog_cat/mixed4d.jpeg)
 		* [https://distill.pub/2018/building-blocks/](https://distill.pub/2018/building-blocks/)
 		* shark vs baseball: [https://distill.pub/2019/activation-atlas/](https://distill.pub/2019/activation-atlas/)
-		*  [https://distill.pub/2019/activation-atlas/#focus-playground](https://distill.pub/2019/activation-atlas/#focus-playground)
+		* clustering of semantic concepts [https://distill.pub/2019/activation-atlas/#focus-playground](https://distill.pub/2019/activation-atlas/#focus-playground)
 	* word math with word2vec
 	*  	
 
@@ -91,7 +91,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYyMTYzMDcsLTcwNTUwMjQzMSw4Mj
+eyJoaXN0b3J5IjpbLTE2Njk3MzIwNjcsLTcwNTUwMjQzMSw4Mj
 k2MzYyNjIsMTg3OTQ3NDg3OSwxODczODM2MTI5LDE2NjY2NTkx
 ODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5MDY0NC
 wyMDQwMjk3NjIyXX0=
