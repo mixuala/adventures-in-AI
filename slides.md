@@ -5,13 +5,14 @@
 		- **tomorrow:** self-driving cars, 
 2. What is it?
 	CS: tell a computer what to do by programming it step-by-step
-	ML: teach a computer what to do by showing it data
+	ML: teach a computer to make decisions by learning hidden patterns in data
+		
 3. What does it looks like?
 4. How does it work?
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzIxNjQ4NSwtMjU4MTAzOTY3LC0xNT
-M0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODkxNjE1ODUsLTI1ODEwMzk2NywtMT
+UzNDk5MDY0NCwyMDQwMjk3NjIyXX0=
 -->
