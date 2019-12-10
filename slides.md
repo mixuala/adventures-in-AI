@@ -51,18 +51,22 @@
 		* dimensionality reduction video
 		* how much is a billion?
 	* data, data, data
-		* **variance**: how much predictions change as the data
-		*  changes (over-fitting)
+		* **variance**: how much predictions change as the data changes (over-fitting)
 	* Petaflop/sec-day
 
-7. different models for different tasks
+7. Hidden Patterns in data
+	* what does the model see? 
+	* word math with word2vec
+	*  
+
+8. different models for different tasks
 	- feed forward
 	- CNN
 	- RL
 	- GANS
 	- RNN/LSTM/attention
 
-8. how do you teach the right things?
+9. how do you teach the right things?
 
 > ImageNet: learning breakthroughs by model architecture
 > model architecture and loss equations
@@ -81,7 +85,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODQ3MDE5OSwxODc5NDc0ODc5LDE4Nz
+eyJoaXN0b3J5IjpbLTg5OTAzNDU1NywxODc5NDc0ODc5LDE4Nz
 M4MzYxMjksMTY2NjY1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAz
 OTY3LC0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
 -->
