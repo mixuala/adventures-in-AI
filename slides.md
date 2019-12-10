@@ -14,7 +14,7 @@
 		
 3. What does that looks like?
 
-> show examples of inference
+> show example of inference
 
 > examples of transfer learning
 
@@ -26,6 +26,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjY1OTE4NiwtMTQ1NTgxMDkzOSwtMj
-U4MTAzOTY3LC0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTEwNTAyMDkzNywxNjY2NjU5MTg2LC0xND
+U1ODEwOTM5LC0yNTgxMDM5NjcsLTE1MzQ5OTA2NDQsMjA0MDI5
+NzYyMl19
 -->
