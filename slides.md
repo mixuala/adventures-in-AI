@@ -22,15 +22,18 @@
 
 > show logistic neuron.  too much detail?
 
-		1. datasets and ben
-		2. pre-trained models
+		1. datasets and benchmarks
+			* CiFAR, ImageNet
+		2. pre-trained models/embeddings
+			* CNN
+			* 
 		3. 
 
 5. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjk0MTQ5LDE4NzM4MzYxMjksMTY2Nj
-Y1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAzOTY3LC0xNTM0OTkw
-NjQ0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTY2MzkwODcwNywxODczODM2MTI5LDE2Nj
+Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
+MDY0NCwyMDQwMjk3NjIyXX0=
 -->
