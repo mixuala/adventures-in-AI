@@ -31,7 +31,7 @@ frequently used terms in machine learning
 * gram-matrix: dot product of a matrix. In style-transfer, for a CNN layer with C channels, it is a matrix of shape=(C,C) which represents the similarity between the C channels of the given layer ( the dot product of matrix with shape=(C,WxH) ). The diagonal of the gram matrix has max activation, or (WxH,1)^2. see: https://miro.medium.com/max/1341/1*HeCcGpmxWZFibgLiZCutag.png
 * Guassian distribution
 * Guassian noice
-* hyper plane
+* hyperplane: an (n-1) dimensional sub-space which divides an n-dimensional space. Useful for marking decision boundaries.
 * kernel
 * latent space
 * linear regression:

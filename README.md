@@ -73,10 +73,12 @@ learn a single pass CNN to replicate the slower optimization step of `gatys` sty
 
 **source** <https://towardsdatascience.com/perceptual-losses-for-real-time-style-transfer-and-super-resolution-637b5d93fa6d>
 
-## parameterization tricks
+## parameterization tricks for better style transfer
 * non-robust models need parameterization tricks: https://distill.pub/2018/differentiable-parameterizations/
   * for FFT, see also: [Spectral Representations for Convolutional Neural Networks](https://arxiv.org/pdf/1506.03767.pdf)
-* instance normalization with `johnson`, see: https://arxiv.org/pdf/1607.08022.pdf
+* `Ulyanov` improvement on fast style transfer, `johnson`
+  * instance normalization instead of batch norm, see: https://arxiv.org/pdf/1607.08022.pdf
+  * texture networks, see: https://arxiv.org/pdf/1701.02096
 
 ## additional works based on Style Transfer
 * robust features work better for non-VGG classifiers: [Neural Style Transfer with Adversarially Robust Classifiers](https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html)
