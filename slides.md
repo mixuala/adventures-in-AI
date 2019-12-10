@@ -59,6 +59,7 @@
 		* What does the network see? 
 ![enter image description here](https://distill.pub/2018/building-blocks/examples/activations/dog_cat/mixed4d.jpeg)
 		* [https://distill.pub/2018/building-blocks/](https://distill.pub/2018/building-blocks/)
+		* [https://distill.pub/2019/activation-atlas/](https://distill.pub/2019/activation-atlas/)
 	* word math with word2vec
 	*  	
 
@@ -89,8 +90,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTUwMjQzMSw4Mjk2MzYyNjIsMTg3OT
-Q3NDg3OSwxODczODM2MTI5LDE2NjY2NTkxODYsLTE0NTU4MTA5
-MzksLTI1ODEwMzk2NywtMTUzNDk5MDY0NCwyMDQwMjk3NjIyXX
-0=
+eyJoaXN0b3J5IjpbMjAyMDIxNzMxNCwtNzA1NTAyNDMxLDgyOT
+YzNjI2MiwxODc5NDc0ODc5LDE4NzM4MzYxMjksMTY2NjY1OTE4
+NiwtMTQ1NTgxMDkzOSwtMjU4MTAzOTY3LC0xNTM0OTkwNjQ0LD
+IwNDAyOTc2MjJdfQ==
 -->
