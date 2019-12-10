@@ -41,13 +41,16 @@
 	* **learning lifecycle:** train/validate/test/deploy
 	* supervised vs. unsupervised learning 
 	* loss equations determine what is learned
-	* optimization with gradient descent
+	* learning with gradient descent
+![gradient descent](https://easyai.tech/wp-content/uploads/2019/01/tiduxiajiang-1.png)
+	* 
 
 6. Why does this work? 
 	* life in n-dimensions
 		* dimensionality reduction video
 	* data, data, data
-	* PetaFlop/sec-year
+		* over
+	* Petaflop/sec-day
 
 7. different models for different tasks
 	- feed forward
@@ -68,7 +71,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk2NTc0ODIsMTg3MzgzNjEyOSwxNj
-Y2NjU5MTg2LC0xNDU1ODEwOTM5LC0yNTgxMDM5NjcsLTE1MzQ5
-OTA2NDQsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTk3NDIwNjUzOCwxODczODM2MTI5LDE2Nj
+Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
+MDY0NCwyMDQwMjk3NjIyXX0=
 -->
