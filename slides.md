@@ -40,18 +40,20 @@
 5. Behind the curtain (more detail)
 	* **learning lifecycle:** train/validate/test/deploy
 	* supervised vs. unsupervised learning 
-	* life in n-dimensions
 	* loss equations determine what is learned
 	* optimization with gradient descent
 
-6. different models for different tasks
+6. How can this work? 
+	* life in n-dimensions
+
+7. different models for different tasks
 	- feed forward
 	- CNN
 	- RL
 	- GANS
 	- RNN/LSTM/attention
 
-7. how do you teach the right things?
+8. how do you teach the right things?
 
 > ImageNet: learning breakthroughs by model architecture
 > 
@@ -63,7 +65,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjY1MDg4NSwxODczODM2MTI5LDE2Nj
+eyJoaXN0b3J5IjpbMTg2OTQ4ODM2NSwxODczODM2MTI5LDE2Nj
 Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
 MDY0NCwyMDQwMjk3NjIyXX0=
 -->
