@@ -71,15 +71,16 @@
 	- path of new ideas/breakthroughs
 
 10. ethics
-	* where does data come fr
+	* where does data come from?
 	* bias in labeled datasets
 	* bias in unsupervised learning
 	* bad data means bad predictions
+	* moral compass
 > bias in datasets
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxODc5NDc1LDE4NzM4MzYxMjksMTY2Nj
-Y1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAzOTY3LC0xNTM0OTkw
-NjQ0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTg3OTQ3NDg3OSwxODczODM2MTI5LDE2Nj
+Y2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5
+MDY0NCwyMDQwMjk3NjIyXX0=
 -->
