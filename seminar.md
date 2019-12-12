@@ -1,4 +1,4 @@
-# TOC {#TOC}
+## TOC
 1. [Basics](#Basics)
 2. [Colab notebooks](#colab-notebooks)
 3. [Quotes](#Quotes)
@@ -7,7 +7,7 @@
 6. [Glossary](#Glossary)
 
 
-## Big Picture
+## Big Picture ##
 
 1. What's the big deal?
   ![word cloud](https://iiot-world.com/wp-content/uploads/2017/05/word-cloud.png)
@@ -282,6 +282,6 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzg4MjAyMywxNTk2NjY1NTY2LDMzND
+eyJoaXN0b3J5IjpbLTE0ODMxNzYxOSwxNTk2NjY1NTY2LDMzND
 AwNzcxMl19
 -->
