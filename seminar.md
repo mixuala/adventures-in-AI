@@ -1,4 +1,4 @@
-# TOC
+# TOC {#TOC}
 1. [Basics](#Basics)
 2. [Colab notebooks](#colab-notebooks)
 3. [Quotes](#Quotes)
@@ -282,6 +282,6 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MzAyNjkyLDE1OTY2NjU1NjYsMzM0MD
-A3NzEyXX0=
+eyJoaXN0b3J5IjpbMTgxNzg4MjAyMywxNTk2NjY1NTY2LDMzND
+AwNzcxMl19
 -->
