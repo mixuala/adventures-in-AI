@@ -1,10 +1,10 @@
 ## TOC
-1. [Basics](#Basics)
+1. [Basics](#basics)
 2. [Colab notebooks](#colab-notebooks)
-3. [Quotes](#Quotes)
-4. [Interesting](#Interesting)
-5. [Ethics and Issues](#Ethics-and-Issues)
-6. [Glossary](#Glossary)
+3. [Quotes](#quotes)
+4. [Interesting](#interesting)
+5. [Ethics and Issues](#ethics-and-issues)
+6. [Glossary](#glossary)
 
 
 ## Big Picture ##
@@ -282,6 +282,6 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMxNzYxOSwxNTk2NjY1NTY2LDMzND
+eyJoaXN0b3J5IjpbLTI3MjQ5NjExNSwxNTk2NjY1NTY2LDMzND
 AwNzcxMl19
 -->
