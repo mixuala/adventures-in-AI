@@ -202,13 +202,13 @@ What does the network see? [https://distill.pub/2018/building-blocks/](https://d
 > how	activations at different layers influence decisions
 
 ## Quotes
-[back to top](#TOC)
+[back to top](#toc)
 > "Just as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years." –Andrew Ng, Google Brain, Baidu, Coursera
 
 > "Pretty much anything that a normal person can do in <1 sec, we can now automate with AI." –Andrew Ng
 
 ## Interesting
-[back to top](#TOC)
+[back to top](#toc)
 * visualizations and disentanglement, 
   * https://distill.pub/2017/feature-visualization/
 
@@ -232,7 +232,7 @@ Hugging Face
 
 
 ## Ethics and Issues 
-[back to top](#TOC)
+[back to top](#toc)
 > limitations: [https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6](https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6)
 
 * bias
@@ -245,7 +245,7 @@ see: https://www.nature.com/articles/d41586-018-07135-0
 ![who should die](https://s3-eu-west-1.amazonaws.com/elasticbeanstalk-eu-west-1-981246043789/wp-content/uploads/2018/08/13152336/Different-scenarios-of-a-self-driving-car-s-behavior-on-the-road.jpg)
 
 ## Glossary
-[back to top](#TOC)
+[back to top](#toc)
 * machine learning
 * data science
 * artificial intelligence
@@ -282,6 +282,6 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjQ5NjExNSwxNTk2NjY1NTY2LDMzND
-AwNzcxMl19
+eyJoaXN0b3J5IjpbLTg2NTU3MTA3LC0yNzI0OTYxMTUsMTU5Nj
+Y2NTU2NiwzMzQwMDc3MTJdfQ==
 -->
