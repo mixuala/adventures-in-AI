@@ -2,10 +2,13 @@
 # Exit Ticket
 > what the audience should walk away with
 
-finding patterns in data and make predictions
-touching every corner of your life, (you can run but you can't hide)
-AI beats humans at...
-why does it work? why now?
+AI > ML > Deep Learning
+
+	Machine learning is: finding patterns in data and make predictions
+	touching every corner of your life, (you can run but you can't hide)
+	AI beats humans at...
+
+Why is it trending?!??
 	
 	data data data
 	life in n-dimensions (1e9)
@@ -46,6 +49,6 @@ ethics and AI
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODkxODcyOCwtNzg3NzMzMTc4LC05MD
+eyJoaXN0b3J5IjpbMTkzMTg5NDQzNSwtNzg3NzMzMTc4LC05MD
 U5MTc0MiwxODc3MDg3NzM1XX0=
 -->
