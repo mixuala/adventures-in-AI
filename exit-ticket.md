@@ -5,7 +5,7 @@
 data data data
 train-test-deploy-repeat
 life in n-dimensions
-ai-beats-humans-at
+AI beats humans at
 
 
 #probability
@@ -14,6 +14,6 @@ ai-beats-humans-at
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI0Mzk1MjMsLTkwNTkxNzQyLDE4Nz
-cwODc3MzVdfQ==
+eyJoaXN0b3J5IjpbMTY4MDkxMjc0NiwtOTA1OTE3NDIsMTg3Nz
+A4NzczNV19
 -->
