@@ -243,7 +243,7 @@ perceptrons are like atoms
 
 Where does data come from?
 - #tenYearChallenge
-- 
+
 
 
 ## Ethics and Issues 
@@ -297,7 +297,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk5OTE0ODksMTU4NTkxMTAwLDY3Mj
+eyJoaXN0b3J5IjpbLTE5MTQ5MzYwMTQsMTU4NTkxMTAwLDY3Mj
 c5NzI4Myw5OTkxNjMwNTQsMjA5Mjc3MzI3MiwtODY1NTcxMDcs
 LTI3MjQ5NjExNSwxNTk2NjY1NTY2LDMzNDAwNzcxMl19
 -->
