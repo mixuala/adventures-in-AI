@@ -4,11 +4,13 @@
 
 touches every corner of your life
 data data data
-train-test-deploy-repeat
-life in n-dimensions
+
+life in n-dimensions (1e9)
 everything is a probability
 AI beats humans at
 peek behind the curtains
+train-test-deploy-repeat
+
 data + features = 
 
 
@@ -18,6 +20,6 @@ data + features =
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU0Nzk4NDgsLTkwNTkxNzQyLDE4Nz
-cwODc3MzVdfQ==
+eyJoaXN0b3J5IjpbLTc4NzczMzE3OCwtOTA1OTE3NDIsMTg3Nz
+A4NzczNV19
 -->
