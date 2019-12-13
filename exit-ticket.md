@@ -14,8 +14,9 @@ A peek behind the curtains:
 	data data data
 	life in n-dimensions (1e9)
 	everything is a probability
+	some examples with transfer learning
 	
-A peek behind the curtains
+Lets get our hands dirty
 	
 	data: everything is a number
 		supervised vs unsupervised learning
@@ -24,6 +25,9 @@ A peek behind the curtains
 	putting it all together
 	
 lifecycle: train-test-deploy-repeat
+
+	transfer learning?
+
 different models for different tasks
 	
 	data, vision, text, sound, games,
@@ -51,6 +55,6 @@ ethics and AI
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjkwMzcyMywtNzg3NzMzMTc4LC05MD
-U5MTc0MiwxODc3MDg3NzM1XX0=
+eyJoaXN0b3J5IjpbNzM5MzQzODYzLC03ODc3MzMxNzgsLTkwNT
+kxNzQyLDE4NzcwODc3MzVdfQ==
 -->
