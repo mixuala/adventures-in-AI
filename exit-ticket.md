@@ -34,6 +34,7 @@ ethics and AI
 	was it biased?
 	what decisions are (in)appropriate?
 	what's the right decision? 
+		fairness, accountability, transparency, 
 	
 
 
@@ -43,6 +44,6 @@ ethics and AI
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUwMDkzNDAsLTc4NzczMzE3OCwtOT
+eyJoaXN0b3J5IjpbLTEzMDcyNzc2NzgsLTc4NzczMzE3OCwtOT
 A1OTE3NDIsMTg3NzA4NzczNV19
 -->
