@@ -241,6 +241,9 @@ perceptrons are like atoms
 - combine the same atoms to get different people (1e27)
 - combine perceptrons in different ways to get different models (1e9)
 
+Where does data come from?
+- #tenYearChallenge
+- 
 
 
 ## Ethics and Issues 
@@ -294,7 +297,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTkxMTAwLDY3Mjc5NzI4Myw5OTkxNj
-MwNTQsMjA5Mjc3MzI3MiwtODY1NTcxMDcsLTI3MjQ5NjExNSwx
-NTk2NjY1NTY2LDMzNDAwNzcxMl19
+eyJoaXN0b3J5IjpbLTExNjk5OTE0ODksMTU4NTkxMTAwLDY3Mj
+c5NzI4Myw5OTkxNjMwNTQsMjA5Mjc3MzI3MiwtODY1NTcxMDcs
+LTI3MjQ5NjExNSwxNTk2NjY1NTY2LDMzNDAwNzcxMl19
 -->
