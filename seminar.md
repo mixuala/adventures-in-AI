@@ -238,8 +238,8 @@ see: https://medium.com/syncedreview/adversarial-patch-on-hat-fools-sota-facial-
 ![enter image description here](https://miro.medium.com/max/1294/0*YCd7eIfFBoe2BewB.png)
 
 perceptrons are like atoms
-- combine
-- 1e27 atoms in a human
+- combine the same atoms to get different people (1e27)
+- combine perceptrons in different ways to get different models (1e9)
 
 
 
@@ -294,7 +294,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTY5MjY1NCw2NzI3OTcyODMsOTk5MT
-YzMDU0LDIwOTI3NzMyNzIsLTg2NTU3MTA3LC0yNzI0OTYxMTUs
-MTU5NjY2NTU2NiwzMzQwMDc3MTJdfQ==
+eyJoaXN0b3J5IjpbMTU4NTkxMTAwLDY3Mjc5NzI4Myw5OTkxNj
+MwNTQsMjA5Mjc3MzI3MiwtODY1NTcxMDcsLTI3MjQ5NjExNSwx
+NTk2NjY1NTY2LDMzNDAwNzcxMl19
 -->
