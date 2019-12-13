@@ -21,7 +21,7 @@ lifecycle: train-test-deploy-repeat
 there is a model for everything
 	
 	data, vision, text, sound, games,
-	feed-forward, CNN, RL, GANs
+	feed-forward, CNN, time-based, RL, GANs
 	
 
 
@@ -34,6 +34,6 @@ ethics: what decisions are inappropriate?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTkwMTAxMywtNzg3NzMzMTc4LC05MD
-U5MTc0MiwxODc3MDg3NzM1XX0=
+eyJoaXN0b3J5IjpbLTE0OTczMjAwNTAsLTc4NzczMzE3OCwtOT
+A1OTE3NDIsMTg3NzA4NzczNV19
 -->
