@@ -24,9 +24,15 @@ different models for different tasks
 	data, vision, text, sound, games,
 	feed-forward, CNN, time-based, RL, GANs
 	
-
-
-ethics: what decisions are inappropriate?
+what did it learn?
+	
+	interpretability
+	di
+ethics and AI 
+	
+	where did you get that data?
+	what decisions are (in)appropriate?
+	
 
 
 #probability
@@ -35,6 +41,6 @@ ethics: what decisions are inappropriate?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIzNDM1NTMsLTc4NzczMzE3OCwtOT
+eyJoaXN0b3J5IjpbLTIxNDYwOTEwNDksLTc4NzczMzE3OCwtOT
 A1OTE3NDIsMTg3NzA4NzczNV19
 -->
