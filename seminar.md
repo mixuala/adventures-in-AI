@@ -230,12 +230,17 @@ Bert
   ![distilBert](https://miro.medium.com/max/2070/1*IFVX74cEe8U5D1GveL1uZA.png)
 Hugging Face
 
-- adversarial attacks
+**adversarial attacks**
 see: [https://distill.pub/2019/activation-atlas/](https://distill.pub/2019/activation-atlas/)
 ![probability](https://i.postimg.cc/Hxf0nYSr/shark-or-baseball.png)
 
 see: https://medium.com/syncedreview/adversarial-patch-on-hat-fools-sota-facial-recognition-82e8c4f83498
 ![enter image description here](https://miro.medium.com/max/1294/0*YCd7eIfFBoe2BewB.png)
+
+perceptrons are like atoms
+- combine
+- 1e27 atoms in a human
+
 
 
 ## Ethics and Issues 
@@ -289,7 +294,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTc3NDQsNjcyNzk3MjgzLDk5OTE2Mz
-A1NCwyMDkyNzczMjcyLC04NjU1NzEwNywtMjcyNDk2MTE1LDE1
-OTY2NjU1NjYsMzM0MDA3NzEyXX0=
+eyJoaXN0b3J5IjpbMTI4OTY5MjY1NCw2NzI3OTcyODMsOTk5MT
+YzMDU0LDIwOTI3NzMyNzIsLTg2NTU3MTA3LC0yNzI0OTYxMTUs
+MTU5NjY2NTU2NiwzMzQwMDc3MTJdfQ==
 -->
