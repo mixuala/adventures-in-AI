@@ -2,15 +2,28 @@
 # Exit Ticket
 > what the audience should walk away with
 
-touches every corner of your life
-data data data
-
-life in n-dimensions (1e9)
-everything is a probability
-AI beats humans at
+finding patterns in data and make predictions
+touching every corner of your life, (you can run but you can't hide)
+AI beats humans at...
+why does it work? why now?
+	
+	data data data
+	life in n-dimensions (1e9)
+	everything is a probability
 peek behind the curtains
-train-test-deploy-repeat
-
+	
+	data: everything is a number
+	perceptrons are the atoms of AI
+	a race to the bottom 
+		loss equations & gradient descent
+	putting it all together
+	
+lifecycle: train-test-deploy-repeat
+there is a model for everything
+	
+	data, vision, text, sound, games, 
+	
+ethics: what decisions are inappropriate?
 
 
 data + features = 
@@ -22,6 +35,6 @@ data + features =
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAxNTc0NjIsLTc4NzczMzE3OCwtOT
+eyJoaXN0b3J5IjpbLTIwMzM1OTgwMzQsLTc4NzczMzE3OCwtOT
 A1OTE3NDIsMTg3NzA4NzczNV19
 -->
