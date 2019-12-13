@@ -230,7 +230,8 @@ Bert
   ![distilBert](https://miro.medium.com/max/2070/1*IFVX74cEe8U5D1GveL1uZA.png)
 Hugging Face
 
-
+- adversarial attacks 
+![probability](https://i.postimg.cc/Hxf0nYSr/shark-or-baseball.png)
 
 
 ## Ethics and Issues 
@@ -284,6 +285,6 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjI4NTAxNSwtODY1NTcxMDcsLTI3Mj
+eyJoaXN0b3J5IjpbMjA5Mjc3MzI3MiwtODY1NTcxMDcsLTI3Mj
 Q5NjExNSwxNTk2NjY1NTY2LDMzNDAwNzcxMl19
 -->
