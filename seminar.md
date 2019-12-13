@@ -162,7 +162,7 @@
   * how many parameters?
 
 
-[![ImageNet pre-trained models by parameters sorted by accuracy](https://i.postimg.cc/BvMz6Dbj/Screen-Shot-2019-12-06-at-9-47-32-AM.png)](https://postimg.cc/B8Pp7jx3)
+![ImageNet pre-trained models by parameters sorted by accuracy](https://i.postimg.cc/BvMz6Dbj/Screen-Shot-2019-12-06-at-9-47-32-AM.png)](https://postimg.cc/B8Pp7jx3)
 
 
 * datasets: 
@@ -289,7 +289,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyNzk3MjgzLDk5OTE2MzA1NCwyMDkyNz
-czMjcyLC04NjU1NzEwNywtMjcyNDk2MTE1LDE1OTY2NjU1NjYs
-MzM0MDA3NzEyXX0=
+eyJoaXN0b3J5IjpbMTUwNTc3NDQsNjcyNzk3MjgzLDk5OTE2Mz
+A1NCwyMDkyNzczMjcyLC04NjU1NzEwNywtMjcyNDk2MTE1LDE1
+OTY2NjU1NjYsMzM0MDA3NzEyXX0=
 -->
