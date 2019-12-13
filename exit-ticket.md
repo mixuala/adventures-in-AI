@@ -14,8 +14,7 @@ peek behind the curtains
 	
 	data: everything is a number
 	perceptrons are the atoms of AI
-	a race to the bottom 
-		loss equations & gradient descent
+	a race to the bottom: loss equations & gradient descent
 	putting it all together
 	
 lifecycle: train-test-deploy-repeat
@@ -35,6 +34,6 @@ data + features =
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM1OTgwMzQsLTc4NzczMzE3OCwtOT
-A1OTE3NDIsMTg3NzA4NzczNV19
+eyJoaXN0b3J5IjpbNjYyOTcwOTcwLC03ODc3MzMxNzgsLTkwNT
+kxNzQyLDE4NzcwODc3MzVdfQ==
 -->
