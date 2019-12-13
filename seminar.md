@@ -231,6 +231,8 @@ Bert
 Hugging Face
 
 
+
+
 ## Ethics and Issues 
 [back to top](#toc)
 > limitations: [https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6](https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6)
@@ -282,6 +284,6 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTU3MTA3LC0yNzI0OTYxMTUsMTU5Nj
-Y2NTU2NiwzMzQwMDc3MTJdfQ==
+eyJoaXN0b3J5IjpbLTI1MjI4NTAxNSwtODY1NTcxMDcsLTI3Mj
+Q5NjExNSwxNTk2NjY1NTY2LDMzNDAwNzcxMl19
 -->
