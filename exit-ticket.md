@@ -14,7 +14,7 @@ A peek behind the curtains:
 	data data data
 	life in n-dimensions (1e9)
 	everything is a probability
-	some examples with transfer learning
+	some examples
 	
 Lets get our hands dirty
 	
@@ -24,16 +24,20 @@ Lets get our hands dirty
 	a race to the bottom: loss equations & gradient descent
 	putting it all together
 	
-lifecycle: train-test-deploy-repeat
-
-	transfer learning?
 
 different models for different tasks
 	
 	data, vision, text, sound, games,
 	feed-forward, CNN, time-based, RL, GANs
+
+out of the labs: train-test-deploy-repeat
+
+	competitions
+	pretrained models
+	transfer learning
+	more examples
 	
-what did it learn?
+what did it really learn?
 	
 	not sure
 	interpretability: attribution, disentanglement
@@ -55,6 +59,6 @@ ethics and AI
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5MzQzODYzLC03ODc3MzMxNzgsLTkwNT
-kxNzQyLDE4NzcwODc3MzVdfQ==
+eyJoaXN0b3J5IjpbLTIwMDE5Nzc3ODQsLTc4NzczMzE3OCwtOT
+A1OTE3NDIsMTg3NzA4NzczNV19
 -->
