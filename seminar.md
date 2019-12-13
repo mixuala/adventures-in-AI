@@ -231,7 +231,10 @@ Bert
 Hugging Face
 
 - adversarial attacks
+see: [https://distill.pub/2019/activation-atlas/](https://distill.pub/2019/activation-atlas/)
 ![probability](https://i.postimg.cc/Hxf0nYSr/shark-or-baseball.png)
+
+see: [https://medium.com/syncedreview/adversarial-patch-on-hat-fools-sota-facial-recognition-82e8c4f83498](https://medium.com/syncedreview/adversarial-patch-on-hat-fools-sota-facial-recognition-82e8c4f83498)
 
 
 
@@ -286,7 +289,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2MjUwMjkyLDIwOTI3NzMyNzIsLTg2NT
+eyJoaXN0b3J5IjpbOTk5MTYzMDU0LDIwOTI3NzMyNzIsLTg2NT
 U3MTA3LC0yNzI0OTYxMTUsMTU5NjY2NTU2NiwzMzQwMDc3MTJd
 fQ==
 -->
