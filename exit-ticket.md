@@ -2,18 +2,20 @@
 # Exit Ticket
 > what the audience should walk away with
 
-AI > ML > Deep Learning
+AI > ML > Deep Learning: Why is it trending?!??
 
 	Machine learning is: finding patterns in data and make predictions
 	touching every corner of your life, (you can run but you can't hide)
 	AI beats humans at...
 
-Why is it trending?!??
+(??? this could be better) why does it work? why now?
+A peek behind the curtains:
 	
 	data data data
 	life in n-dimensions (1e9)
 	everything is a probability
-peek behind the curtains
+	
+A peek behind the curtains
 	
 	data: everything is a number
 		supervised vs unsupervised learning
@@ -49,6 +51,6 @@ ethics and AI
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTg5NDQzNSwtNzg3NzMzMTc4LC05MD
+eyJoaXN0b3J5IjpbMTgxMjkwMzcyMywtNzg3NzMzMTc4LC05MD
 U5MTc0MiwxODc3MDg3NzM1XX0=
 -->
