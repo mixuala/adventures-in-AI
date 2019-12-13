@@ -26,7 +26,9 @@ different models for different tasks
 	
 what did it learn?
 	
+	not sure
 	interpretability: attribution, disentanglement
+	edge cases
 	
 ethics and AI 
 	
@@ -44,6 +46,6 @@ ethics and AI
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDcyNzc2NzgsLTc4NzczMzE3OCwtOT
-A1OTE3NDIsMTg3NzA4NzczNV19
+eyJoaXN0b3J5IjpbMTAxODkxODcyOCwtNzg3NzMzMTc4LC05MD
+U5MTc0MiwxODc3MDg3NzM1XX0=
 -->
