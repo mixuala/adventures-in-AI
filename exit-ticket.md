@@ -3,7 +3,8 @@
 > what the audience should walk away with
 
 data data data
-train-test-delpoy-
+train-test-deploy-repeat
+
 
 #probability
 #adversarialAttacks
@@ -11,6 +12,6 @@ train-test-delpoy-
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2OTY3OTMyLC05MDU5MTc0MiwxODc3MD
-g3NzM1XX0=
+eyJoaXN0b3J5IjpbLTkxNjMzMjIzOSwtOTA1OTE3NDIsMTg3Nz
+A4NzczNV19
 -->
