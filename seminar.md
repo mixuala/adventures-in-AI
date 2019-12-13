@@ -234,8 +234,8 @@ Hugging Face
 see: [https://distill.pub/2019/activation-atlas/](https://distill.pub/2019/activation-atlas/)
 ![probability](https://i.postimg.cc/Hxf0nYSr/shark-or-baseball.png)
 
-see: [https://medium.com/syncedreview/adversarial-patch-on-hat-fools-sota-facial-recognition-82e8c4f83498](https://medium.com/syncedreview/adversarial-patch-on-hat-fools-sota-facial-recognition-82e8c4f83498)
-
+see: https://medium.com/syncedreview/adversarial-patch-on-hat-fools-sota-facial-recognition-82e8c4f83498
+![enter image description here](https://miro.medium.com/max/1294/0*YCd7eIfFBoe2BewB.png)
 
 
 ## Ethics and Issues 
@@ -289,7 +289,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5MTYzMDU0LDIwOTI3NzMyNzIsLTg2NT
-U3MTA3LC0yNzI0OTYxMTUsMTU5NjY2NTU2NiwzMzQwMDc3MTJd
-fQ==
+eyJoaXN0b3J5IjpbNjcyNzk3MjgzLDk5OTE2MzA1NCwyMDkyNz
+czMjcyLC04NjU1NzEwNywtMjcyNDk2MTE1LDE1OTY2NjU1NjYs
+MzM0MDA3NzEyXX0=
 -->
