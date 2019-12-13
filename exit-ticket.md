@@ -18,6 +18,7 @@ A peek behind the curtains:
 	
 Lets get our hands dirty
 	
+	(tensorflow playground)
 	data: everything is a number
 		supervised vs unsupervised learning
 	perceptrons are the atoms of AI
@@ -59,6 +60,6 @@ ethics and AI
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE5Nzc3ODQsLTc4NzczMzE3OCwtOT
-A1OTE3NDIsMTg3NzA4NzczNV19
+eyJoaXN0b3J5IjpbMTg2Njg3NzAxNSwtMjAwMTk3Nzc4NCwtNz
+g3NzMzMTc4LC05MDU5MTc0MiwxODc3MDg3NzM1XX0=
 -->
