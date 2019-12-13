@@ -20,12 +20,12 @@ peek behind the curtains
 lifecycle: train-test-deploy-repeat
 there is a model for everything
 	
-	data, vision, text, sound, games, 
+	data, vision, text, sound, games,
+	feed-forward
 	
+
+
 ethics: what decisions are inappropriate?
-
-
-data + features = 
 
 
 #probability
@@ -34,6 +34,6 @@ data + features =
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyOTcwOTcwLC03ODc3MzMxNzgsLTkwNT
+eyJoaXN0b3J5IjpbODE1MzY3OTA3LC03ODc3MzMxNzgsLTkwNT
 kxNzQyLDE4NzcwODc3MzVdfQ==
 -->
