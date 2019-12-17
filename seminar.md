@@ -265,6 +265,7 @@ see: https://www.nature.com/articles/d41586-018-07135-0
 * data science
 * artificial intelligence
 * petaflop/s-day: 1e15 ops/sec * ~1e5 secs, or 8.6e19 ops. AlphaGo trained on 1860 pf/s-d
+* transfer learning - a machine learning algo is trained in 2 steps, 1) general training on a benchmark data set, followed by 2) fine-tuning on a smaller dataset to learn a specific target task. based on the principle that general features can be reused to learn specific tasks
 
 
 # useful
@@ -297,7 +298,8 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ5MzYwMTQsMTU4NTkxMTAwLDY3Mj
-c5NzI4Myw5OTkxNjMwNTQsMjA5Mjc3MzI3MiwtODY1NTcxMDcs
-LTI3MjQ5NjExNSwxNTk2NjY1NTY2LDMzNDAwNzcxMl19
+eyJoaXN0b3J5IjpbLTQzNTY1NTc0MiwtMTkxNDkzNjAxNCwxNT
+g1OTExMDAsNjcyNzk3MjgzLDk5OTE2MzA1NCwyMDkyNzczMjcy
+LC04NjU1NzEwNywtMjcyNDk2MTE1LDE1OTY2NjU1NjYsMzM0MD
+A3NzEyXX0=
 -->
