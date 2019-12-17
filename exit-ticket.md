@@ -76,14 +76,16 @@ What did we leave out?
 	- feature visualizations
 		- activations
 	- word2vec
-	- benchmar	
+	- benchmark datasets/competitions
+		- imagenet
+	- different models learn different things	
 	
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyODY3NTk3LDMyMTAzNjA3NiwxODY2OD
-c3MDE1LC0yMDAxOTc3Nzg0LC03ODc3MzMxNzgsLTkwNTkxNzQy
-LDE4NzcwODc3MzVdfQ==
+eyJoaXN0b3J5IjpbMTc3NjI3MjczMywzMjEwMzYwNzYsMTg2Nj
+g3NzAxNSwtMjAwMTk3Nzc4NCwtNzg3NzMzMTc4LC05MDU5MTc0
+MiwxODc3MDg3NzM1XX0=
 -->
