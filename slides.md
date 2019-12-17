@@ -8,7 +8,8 @@
 
 	- medical imaging:
 		- chest x-rays
-		- ![chest xrays](https://1.bp.blogspot.com/-jdOG79Vjguw/XeaMf9IHsBI/AAAAAAAAE-s/g6j9MWdloAUum4qh7HLohqulFO-C5dZjwCLcBGAsYHQ/s1600/image1.png) 
+		- ![chest xrays]
+		- [https://1.bp.blogspot.com/-jdOG79Vjguw/XeaMf9IHsBI/AAAAAAAAE-s/g6j9MWdloAUum4qh7HLohqulFO-C5dZjwCLcBGAsYHQ/s640/image1.png](https://1.bp.blogspot.com/-jdOG79Vjguw/XeaMf9IHsBI/AAAAAAAAE-s/g6j9MWdloAUum4qh7HLohqulFO-C5dZjwCLcBGAsYHQ/s640/image1.png) 
 
 2. What is it?
 	CS: tell a computer what to do by programming it step-by-step
@@ -115,10 +116,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjcxNzgyOSwxODcwOTQ1MjkyLDE0MT
-A1NzAzODcsMTkyOTU1NTYzMiwtNzgyNzczMjE0LDQyNDk4MjMw
-OCwyNDQzNjc2MjUsMTU1MDU0MTQwMywtMTY2OTczMjA2NywtNz
-A1NTAyNDMxLDgyOTYzNjI2MiwxODc5NDc0ODc5LDE4NzM4MzYx
-MjksMTY2NjY1OTE4NiwtMTQ1NTgxMDkzOSwtMjU4MTAzOTY3LC
-0xNTM0OTkwNjQ0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbNjQ0MDE4Nzg2LDE4NzA5NDUyOTIsMTQxMD
+U3MDM4NywxOTI5NTU1NjMyLC03ODI3NzMyMTQsNDI0OTgyMzA4
+LDI0NDM2NzYyNSwxNTUwNTQxNDAzLC0xNjY5NzMyMDY3LC03MD
+U1MDI0MzEsODI5NjM2MjYyLDE4Nzk0NzQ4NzksMTg3MzgzNjEy
+OSwxNjY2NjU5MTg2LC0xNDU1ODEwOTM5LC0yNTgxMDM5NjcsLT
+E1MzQ5OTA2NDQsMjA0MDI5NzYyMl19
 -->
