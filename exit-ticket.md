@@ -73,16 +73,17 @@ Useful hashtags
 
 What did we leave out?
 	
-	-feature visualizations
+	- feature visualizations
 		- activations
-	- 	
+	- word2vec
+	- benchmar	
 	
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMyNzAxMTIsMzIxMDM2MDc2LDE4Nj
-Y4NzcwMTUsLTIwMDE5Nzc3ODQsLTc4NzczMzE3OCwtOTA1OTE3
-NDIsMTg3NzA4NzczNV19
+eyJoaXN0b3J5IjpbNzYyODY3NTk3LDMyMTAzNjA3NiwxODY2OD
+c3MDE1LC0yMDAxOTc3Nzg0LC03ODc3MzMxNzgsLTkwNTkxNzQy
+LDE4NzcwODc3MzVdfQ==
 -->
