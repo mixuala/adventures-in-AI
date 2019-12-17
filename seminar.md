@@ -3,8 +3,9 @@
 2. [Colab notebooks](#colab-notebooks)
 3. [Quotes](#quotes)
 4. [Interesting](#interesting)
-5. [Ethics and Issues](#ethics-and-issues)
-6. [Glossary](#glossary)
+5. [Headlines](#headlines)
+6. [Ethics and Issues](#ethics-and-issues)
+7. [Glossary](#glossary)
 
 
 ## Big Picture ##
@@ -244,6 +245,7 @@ perceptrons are like atoms
 Where does data come from?
 - #tenYearChallenge
 
+## Headlines
 
 
 ## Ethics and Issues 
@@ -298,8 +300,8 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTY1NTc0MiwtMTkxNDkzNjAxNCwxNT
-g1OTExMDAsNjcyNzk3MjgzLDk5OTE2MzA1NCwyMDkyNzczMjcy
-LC04NjU1NzEwNywtMjcyNDk2MTE1LDE1OTY2NjU1NjYsMzM0MD
-A3NzEyXX0=
+eyJoaXN0b3J5IjpbLTE4MjA5MDA4MjAsLTQzNTY1NTc0MiwtMT
+kxNDkzNjAxNCwxNTg1OTExMDAsNjcyNzk3MjgzLDk5OTE2MzA1
+NCwyMDkyNzczMjcyLC04NjU1NzEwNywtMjcyNDk2MTE1LDE1OT
+Y2NjU1NjYsMzM0MDA3NzEyXX0=
 -->
