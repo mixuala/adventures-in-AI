@@ -251,6 +251,7 @@ Where does data come from?
 	# DeepMind’s AI can recommend treatment for more than 50 eye diseases with 94% accuracy
 	# Google’s DeepMind wants AI to spot kidney injuries
 	# Baidu Research’s breast cancer detection algorithm outperforms human pathologists
+### jobs
 
 
 ## Ethics and Issues 
@@ -305,8 +306,8 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NTEyMTAwLC00MzU2NTU3NDIsLTE5MT
-Q5MzYwMTQsMTU4NTkxMTAwLDY3Mjc5NzI4Myw5OTkxNjMwNTQs
-MjA5Mjc3MzI3MiwtODY1NTcxMDcsLTI3MjQ5NjExNSwxNTk2Nj
-Y1NTY2LDMzNDAwNzcxMl19
+eyJoaXN0b3J5IjpbLTIwODM3MTYzOSwyMjY1MTIxMDAsLTQzNT
+Y1NTc0MiwtMTkxNDkzNjAxNCwxNTg1OTExMDAsNjcyNzk3Mjgz
+LDk5OTE2MzA1NCwyMDkyNzczMjcyLC04NjU1NzEwNywtMjcyND
+k2MTE1LDE1OTY2NjU1NjYsMzM0MDA3NzEyXX0=
 -->
