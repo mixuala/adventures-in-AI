@@ -29,6 +29,11 @@ Lets get our hands dirty
 So what really happened?
 
 	data * (model + weights) = activations
+	
+???: whats hiding in those hidden layers?
+	
+	(visualizations)?
+	or handle in "what did it really learn?"
 
 different models for different tasks
 	
@@ -47,24 +52,34 @@ what did it really learn?
 	not sure
 	interpretability: attribution, disentanglement
 	edge cases
+
+where do we go from here?	
+
+
+what could possibly go wrong?
 	
-ethics and AI 
-	
-	where did you get that data?
+	where did you get that?/where does data come from?
 	was it biased?
 	what decisions are (in)appropriate?
 	what's the right decision? 
 		fairness, accountability, transparency, 
 	
 
+Useful hashtags
+		
+		#probability
+		#adversarialAttacks
 
-#probability
-#adversarialAttacks
+What did we leave out?
+	
+		
+	
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMDM2MDc2LDE4NjY4NzcwMTUsLTIwMD
-E5Nzc3ODQsLTc4NzczMzE3OCwtOTA1OTE3NDIsMTg3NzA4Nzcz
-NV19
+eyJoaXN0b3J5IjpbLTE0MDc3ODk3MzcsMzIxMDM2MDc2LDE4Nj
+Y4NzcwMTUsLTIwMDE5Nzc3ODQsLTc4NzczMzE3OCwtOTA1OTE3
+NDIsMTg3NzA4NzczNV19
 -->
