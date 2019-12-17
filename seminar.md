@@ -250,6 +250,8 @@ Where does data come from?
 	# Google details AI that classifies chest X-rays with human-level accuracy
 	# DeepMind’s AI can recommend treatment for more than 50 eye diseases with 94% accuracy
 	# Google’s DeepMind wants AI to spot kidney injuries
+	# Baidu Research’s breast cancer detection algorithm outperforms human pathologists
+
 
 ## Ethics and Issues 
 [back to top](#toc)
@@ -303,8 +305,8 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM5NjYzODgsLTQzNTY1NTc0MiwtMT
-kxNDkzNjAxNCwxNTg1OTExMDAsNjcyNzk3MjgzLDk5OTE2MzA1
-NCwyMDkyNzczMjcyLC04NjU1NzEwNywtMjcyNDk2MTE1LDE1OT
-Y2NjU1NjYsMzM0MDA3NzEyXX0=
+eyJoaXN0b3J5IjpbMjI2NTEyMTAwLC00MzU2NTU3NDIsLTE5MT
+Q5MzYwMTQsMTU4NTkxMTAwLDY3Mjc5NzI4Myw5OTkxNjMwNTQs
+MjA5Mjc3MzI3MiwtODY1NTcxMDcsLTI3MjQ5NjExNSwxNTk2Nj
+Y1NTY2LDMzNDAwNzcxMl19
 -->
