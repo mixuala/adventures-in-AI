@@ -253,6 +253,9 @@ Where does data come from?
 	# Baidu Research’s breast cancer detection algorithm outperforms human pathologists
 ### jobs
 
+### AI beats humans at
+
+
 
 ## Ethics and Issues 
 [back to top](#toc)
@@ -306,8 +309,8 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM3MTYzOSwyMjY1MTIxMDAsLTQzNT
-Y1NTc0MiwtMTkxNDkzNjAxNCwxNTg1OTExMDAsNjcyNzk3Mjgz
-LDk5OTE2MzA1NCwyMDkyNzczMjcyLC04NjU1NzEwNywtMjcyND
-k2MTE1LDE1OTY2NjU1NjYsMzM0MDA3NzEyXX0=
+eyJoaXN0b3J5IjpbLTE2Njk0OTYyNDIsMjI2NTEyMTAwLC00Mz
+U2NTU3NDIsLTE5MTQ5MzYwMTQsMTU4NTkxMTAwLDY3Mjc5NzI4
+Myw5OTkxNjMwNTQsMjA5Mjc3MzI3MiwtODY1NTcxMDcsLTI3Mj
+Q5NjExNSwxNTk2NjY1NTY2LDMzNDAwNzcxMl19
 -->
