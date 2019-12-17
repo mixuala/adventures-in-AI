@@ -5,10 +5,11 @@
 AI > ML > Deep Learning: Why is it trending?!??
 
 	Machine learning is: finding patterns in data and make predictions
-	touching every corner of your life, (you can run but you can't hide)
+	touches every corner of your life, (you can run but you can't hide)
 	AI beats humans at...
 
 (??? this could be better) why does it work? why now?
+
 A peek behind the curtains:
 	
 	data data data
@@ -79,7 +80,7 @@ What did we leave out?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc3ODk3MzcsMzIxMDM2MDc2LDE4Nj
-Y4NzcwMTUsLTIwMDE5Nzc3ODQsLTc4NzczMzE3OCwtOTA1OTE3
-NDIsMTg3NzA4NzczNV19
+eyJoaXN0b3J5IjpbLTIwNjY1MDY4OSwzMjEwMzYwNzYsMTg2Nj
+g3NzAxNSwtMjAwMTk3Nzc4NCwtNzg3NzMzMTc4LC05MDU5MTc0
+MiwxODc3MDg3NzM1XX0=
 -->
