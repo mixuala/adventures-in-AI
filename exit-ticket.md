@@ -22,13 +22,13 @@ Lets get our hands dirty
 	data: everything is a number
 		supervised vs unsupervised learning
 	perceptrons are the atoms of AI
-	activations
+	activations???
 	a race to the bottom: loss equations & gradient descent
 	putting it all together
 	
 So what really happened?
 
-	model + learned weights
+	data * (model + weights) = activations
 
 different models for different tasks
 	
@@ -64,7 +64,7 @@ ethics and AI
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTU2MzI3MSwxODY2ODc3MDE1LC0yMD
-AxOTc3Nzg0LC03ODc3MzMxNzgsLTkwNTkxNzQyLDE4NzcwODc3
-MzVdfQ==
+eyJoaXN0b3J5IjpbMzIxMDM2MDc2LDE4NjY4NzcwMTUsLTIwMD
+E5Nzc3ODQsLTc4NzczMzE3OCwtOTA1OTE3NDIsMTg3NzA4Nzcz
+NV19
 -->
