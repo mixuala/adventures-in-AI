@@ -247,6 +247,8 @@ Where does data come from?
 
 ## Headlines
 
+	Google details AI that classifies chest X-rays with human-level accuracy
+	# DeepMind’s AI can recommend treatment for more than 50 eye diseases with 94% accuracy
 
 ## Ethics and Issues 
 [back to top](#toc)
@@ -300,7 +302,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA5MDA4MjAsLTQzNTY1NTc0MiwtMT
+eyJoaXN0b3J5IjpbLTIxMDA4MTA5MDAsLTQzNTY1NTc0MiwtMT
 kxNDkzNjAxNCwxNTg1OTExMDAsNjcyNzk3MjgzLDk5OTE2MzA1
 NCwyMDkyNzczMjcyLC04NjU1NzEwNywtMjcyNDk2MTE1LDE1OT
 Y2NjU1NjYsMzM0MDA3NzEyXX0=
