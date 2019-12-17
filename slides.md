@@ -6,6 +6,8 @@
 
 ![ai beats humans](https://i.ibb.co/4sdFz9L/Screenshot-2019-12-10-at-11-53-15-AM.png)
 
+	- medical imaging:
+		- 
 2. What is it?
 	CS: tell a computer what to do by programming it step-by-step
 	ML: teach a computer to make predictions by learning hidden patterns in data
@@ -111,10 +113,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDk0NTI5MiwxNDEwNTcwMzg3LDE5Mj
-k1NTU2MzIsLTc4Mjc3MzIxNCw0MjQ5ODIzMDgsMjQ0MzY3NjI1
-LDE1NTA1NDE0MDMsLTE2Njk3MzIwNjcsLTcwNTUwMjQzMSw4Mj
-k2MzYyNjIsMTg3OTQ3NDg3OSwxODczODM2MTI5LDE2NjY2NTkx
-ODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2NywtMTUzNDk5MDY0NC
-wyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTEyODE1MjQ1OTksMTg3MDk0NTI5MiwxND
+EwNTcwMzg3LDE5Mjk1NTU2MzIsLTc4Mjc3MzIxNCw0MjQ5ODIz
+MDgsMjQ0MzY3NjI1LDE1NTA1NDE0MDMsLTE2Njk3MzIwNjcsLT
+cwNTUwMjQzMSw4Mjk2MzYyNjIsMTg3OTQ3NDg3OSwxODczODM2
+MTI5LDE2NjY2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2Ny
+wtMTUzNDk5MDY0NCwyMDQwMjk3NjIyXX0=
 -->
