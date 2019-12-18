@@ -18,8 +18,8 @@ A peek behind the curtains:
 	some examples
 	
 Lets get our hands dirty
+	[understanding-neural-networks-with-tensorflow-playground](https://cloud.google.com/blog/products/gcp/understanding-neural-networks-with-tensorflow-playground)
 	
-	(tensorflow playground)
 	data: everything is a number
 		supervised vs unsupervised learning
 	perceptrons are the atoms of AI
@@ -85,7 +85,7 @@ What did we leave out?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjI3MjczMywzMjEwMzYwNzYsMTg2Nj
-g3NzAxNSwtMjAwMTk3Nzc4NCwtNzg3NzMzMTc4LC05MDU5MTc0
-MiwxODc3MDg3NzM1XX0=
+eyJoaXN0b3J5IjpbLTUyNDY3NTQ0NSwxNzc2MjcyNzMzLDMyMT
+AzNjA3NiwxODY2ODc3MDE1LC0yMDAxOTc3Nzg0LC03ODc3MzMx
+NzgsLTkwNTkxNzQyLDE4NzcwODc3MzVdfQ==
 -->
