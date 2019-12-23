@@ -3,6 +3,7 @@
 > what the audience should walk away with
 
 AI > ML > Deep Learning: Why is it trending?!??
+> Machine Learning is a field of study that gives computers the ability to learn without being explicitly programmed. --**Arthur Samuel**
 
 	Machine learning is: finding patterns in data and make predictions
 	touches every corner of your life, (you can run but you can't hide)
@@ -85,7 +86,7 @@ What did we leave out?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDY3NTQ0NSwxNzc2MjcyNzMzLDMyMT
-AzNjA3NiwxODY2ODc3MDE1LC0yMDAxOTc3Nzg0LC03ODc3MzMx
-NzgsLTkwNTkxNzQyLDE4NzcwODc3MzVdfQ==
+eyJoaXN0b3J5IjpbLTk1NzQ1Mjk5NywtNTI0Njc1NDQ1LDE3Nz
+YyNzI3MzMsMzIxMDM2MDc2LDE4NjY4NzcwMTUsLTIwMDE5Nzc3
+ODQsLTc4NzczMzE3OCwtOTA1OTE3NDIsMTg3NzA4NzczNV19
 -->
