@@ -22,9 +22,11 @@ A peek behind the curtains:
 Lets get our hands dirty
 	[understanding-neural-networks-with-tensorflow-playground](https://cloud.google.com/blog/products/gcp/understanding-neural-networks-with-tensorflow-playground)
 	
-** tensorflow playground	
-1. XOR, 6 neurons, try 3>3, 2>2>2,
-			-  3>2	
+** tensorflow playground **	
+1. XOR, 
+	- 6 neurons, try 3>3, 2>2>2,
+	- 5: neurons: 3>2
+	- 4: [2>2](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=2,2&seed=0.83546&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)	
 	
 	data: everything is a number
 		supervised vs unsupervised learning
@@ -91,8 +93,8 @@ What did we leave out?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTEwMjQyLC0xMjIzNzQxNTk0LDEyMz
-c0NzU2NjMsLTUyNDY3NTQ0NSwxNzc2MjcyNzMzLDMyMTAzNjA3
-NiwxODY2ODc3MDE1LC0yMDAxOTc3Nzg0LC03ODc3MzMxNzgsLT
-kwNTkxNzQyLDE4NzcwODc3MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MDgwMjA3MjIsLTEyMjM3NDE1OTQsMT
+IzNzQ3NTY2MywtNTI0Njc1NDQ1LDE3NzYyNzI3MzMsMzIxMDM2
+MDc2LDE4NjY4NzcwMTUsLTIwMDE5Nzc3ODQsLTc4NzczMzE3OC
+wtOTA1OTE3NDIsMTg3NzA4NzczNV19
 -->
