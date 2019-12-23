@@ -22,7 +22,7 @@ A peek behind the curtains:
 Lets get our hands dirty
 	[understanding-neural-networks-with-tensorflow-playground](https://cloud.google.com/blog/products/gcp/understanding-neural-networks-with-tensorflow-playground)
 	
-		1. XOR, 6 neurons, try 3>3, 2>2>2, 3>2>1	
+		1. XOR, 6 neurons, try 3>3, 2>2>2, 3>2	
 	
 	data: everything is a number
 		supervised vs unsupervised learning
@@ -89,8 +89,8 @@ What did we leave out?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM3NDE1OTQsMTIzNzQ3NTY2MywtNT
-I0Njc1NDQ1LDE3NzYyNzI3MzMsMzIxMDM2MDc2LDE4NjY4Nzcw
-MTUsLTIwMDE5Nzc3ODQsLTc4NzczMzE3OCwtOTA1OTE3NDIsMT
-g3NzA4NzczNV19
+eyJoaXN0b3J5IjpbMTc4NzY5MzA0OSwtMTIyMzc0MTU5NCwxMj
+M3NDc1NjYzLC01MjQ2NzU0NDUsMTc3NjI3MjczMywzMjEwMzYw
+NzYsMTg2Njg3NzAxNSwtMjAwMTk3Nzc4NCwtNzg3NzMzMTc4LC
+05MDU5MTc0MiwxODc3MDg3NzM1XX0=
 -->
