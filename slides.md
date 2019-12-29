@@ -1,7 +1,7 @@
 # outline
 1. AI > machine learning > deep learning
 	- machines are making decisions using "A.I." that affect you every day, examples:
-		- **today:** social media feeds, snapchat filters, Siri/Alexa, Google Translate, Portrait mode, Face ID, recommender engines, online advertising, grammarly
+		- **today:** social media feeds, snapchat filters, Siri/Alexa, Google Translate, Portrait mode, Face ID, facetune, recommender engines, online advertising, grammarly
 		- **tomorrow:** self-driving cars, medicine
 
 ![ai beats humans](https://i.ibb.co/4sdFz9L/Screenshot-2019-12-10-at-11-53-15-AM.png)
@@ -115,10 +115,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTkwMDU2NzUsMTg3MDk0NTI5MiwxND
-EwNTcwMzg3LDE5Mjk1NTU2MzIsLTc4Mjc3MzIxNCw0MjQ5ODIz
-MDgsMjQ0MzY3NjI1LDE1NTA1NDE0MDMsLTE2Njk3MzIwNjcsLT
-cwNTUwMjQzMSw4Mjk2MzYyNjIsMTg3OTQ3NDg3OSwxODczODM2
-MTI5LDE2NjY2NTkxODYsLTE0NTU4MTA5MzksLTI1ODEwMzk2Ny
-wtMTUzNDk5MDY0NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbNjcyODE2NjA2LDE4NzA5NDUyOTIsMTQxMD
+U3MDM4NywxOTI5NTU1NjMyLC03ODI3NzMyMTQsNDI0OTgyMzA4
+LDI0NDM2NzYyNSwxNTUwNTQxNDAzLC0xNjY5NzMyMDY3LC03MD
+U1MDI0MzEsODI5NjM2MjYyLDE4Nzk0NzQ4NzksMTg3MzgzNjEy
+OSwxNjY2NjU5MTg2LC0xNDU1ODEwOTM5LC0yNTgxMDM5NjcsLT
+E1MzQ5OTA2NDQsMjA0MDI5NzYyMl19
 -->
