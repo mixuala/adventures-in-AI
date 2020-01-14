@@ -2,6 +2,8 @@
 
 ## Classification Challenge: predict blue or orange dots found in a 2D space
 > “Pretty much anything that a normal person can do in <1 sec, we can now automate with AI.” –Andrew Ng
+### Man vs Machine
+Predict blue or orange dots a
 -	humans: draw a line to separate blue/orange	
 -	AI: predict blue or orange based on 2D features
 	
@@ -59,5 +61,5 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5ODUyODM3XX0=
+eyJoaXN0b3J5IjpbLTc2ODE1NTE0M119
 -->
