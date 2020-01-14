@@ -1,4 +1,7 @@
-
+```
+- diagram a perceptron
+- 
+```
 
 ## Classification Challenge: predict blue or orange dots found in a 2D space
 > “Pretty much anything that a normal person can do in <1 sec, we can now automate with AI.” –Andrew Ng
@@ -23,14 +26,14 @@ Predict blue or orange dots after viewing a sample of the data:
 	- there are many valid solutions; it's an art not a science, 
 
 3. Features (Inputs)
-> predict blue/orange dots based on a sample from the dataset.
+> predict blue/orange dots on a 2D chart based on a sample from the dataset.
 ![circle](https://i.postimg.cc/cHqGVcW3/tfp-data1.png)
 
 ![XOR](https://i.postimg.cc/25LfcKsm/tfp-data2.png)
 ![???](https://i.postimg.cc/cHQGZ81b/tfp-data3.png)
 ![spiral](https://i.postimg.cc/SRkFKNJN/tfp-data4.png)
 	- raw data: x1, x2  or `(x,y)`
-	- "feature engineering" is the manipulation of raw data to create useful features for learning, access to 5 additional engineered features
+	- "feature engineering" is the manipulation of raw data to create useful features for learning, access to 5 additional engineered features, e.g. x1^2 , x2*x2.
 	
 4. Hidden Layers
 	- this is where you get the big money
@@ -68,6 +71,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjIxMTE1MCwxNjc3MTU3NjU2LC00Mz
-cyMzgyNDddfQ==
+eyJoaXN0b3J5IjpbNTIwOTc5NDcsMTY3NzE1NzY1NiwtNDM3Mj
+M4MjQ3XX0=
 -->
