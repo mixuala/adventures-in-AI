@@ -4,8 +4,8 @@
 - show examples of how perceptrons can be connected together
 	- show pretrained models
 ???: loss functions & gradient descent?
-
 ???: train/test workflow?
+???: the power of n-dimensions & overfitting
 ???: evaluating/comparing models
 
 ```
@@ -76,6 +76,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MzY0ODI2LDE2NzcxNTc2NTYsLTQzNz
-IzODI0N119
+eyJoaXN0b3J5IjpbLTk0NTM4NzM5MywxNjc3MTU3NjU2LC00Mz
+cyMzgyNDddfQ==
 -->
