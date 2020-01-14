@@ -4,7 +4,10 @@
 - show examples of how perceptrons can be connected together
 	- show pretrained models
 ???: loss functions & gradient descent?
-??
+
+???: train/test workflow?
+???: evaluating/comparing models
+
 ```
 
 
@@ -71,11 +74,8 @@ How do you know who  "won" or which model is "best"
 		- proportional to how many parameters in your model
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjUyNTQ3NiwxNjc3MTU3NjU2LC00Mz
-cyMzgyNDddfQ==
+eyJoaXN0b3J5IjpbMjY5MzY0ODI2LDE2NzcxNTc2NTYsLTQzNz
+IzODI0N119
 -->
