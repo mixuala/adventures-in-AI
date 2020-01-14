@@ -17,22 +17,28 @@ Predict blue or orange dots after viewing a sample of the data:
 			NOTE: for fullscreen view of raw data, see Output Panel with output layer weights=0
 			TODO: get fullscreen projection of data for human challenge
 	
-3. Neural Network/Model
+2. Neural Network/Model
 	- basic building block is the perceptron,  
 	- networks/models are built by connecting perceptrons in creative ways. 
 	- there are many valid solutions; it's an art not a science, 
-4. Features (input layer)
+
+3. Features (Inputs)
+![circle](https://i.postimg.cc/cHqGVcW3/tfp-data1.png)
+
+![XOR](https://i.postimg.cc/25LfcKsm/tfp-data2.png)
+![???](https://i.postimg.cc/cHQGZ81b/tfp-data3.png)
+![spiral](https://i.postimg.cc/SRkFKNJN/tfp-data4.png)
 	- raw data: x1, x2  or `(x,y)`
 	- "feature engineering" is the manipulation of raw data to create useful features for learning, access to 5 additional engineered features
 	
-5. Hidden Layers
+4. Hidden Layers
 	- this is where you get the big money
 	- build models in 2D, wide & deep, 
 	- this is the "deep" in "deep learning"
 			
 			???: what is the relationship between number of perceptrons and n-dimensions of hyperplane
 			
-6. Output Layer: make predictions
+5. Output Layer: make predictions
 	- for classification challenges: predictions expressed as a probability
 
 ## Learning
@@ -61,5 +67,5 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzIzODI0N119
+eyJoaXN0b3J5IjpbMTY3NzE1NzY1NiwtNDM3MjM4MjQ3XX0=
 -->
