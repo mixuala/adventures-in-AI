@@ -38,14 +38,12 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 	- "feature engineering" is the manipulation of raw data to create useful features for learning, access to 5 additional engineered features, e.g. x1^2 , x2*x2.
 	
 4. Hidden Layers
-	- build by connecting perceptrons
-	- this is where you get the big money
-	- build models in 2D, wide & deep, 
-	- this is the "deep" in "deep learning"
+	- built by connecting many perceptrons in creative ways
+	- build models in 2D, wide & deep. This is the "deep" in "deep learning"
 			
 			???: what is the relationship between number of perceptrons and n-dimensions of hyperplane
 			
-5. Output Layer: make predictions
+5. Output Layer: convert final activations into predictions
 	- for classification challenges: predictions expressed as a probability
 
 ## Learning
@@ -74,6 +72,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMjU4NDc1LDE2NzcxNTc2NTYsLTQzNz
-IzODI0N119
+eyJoaXN0b3J5IjpbLTg3NjcxNzAxMSwxNjc3MTU3NjU2LC00Mz
+cyMzgyNDddfQ==
 -->
