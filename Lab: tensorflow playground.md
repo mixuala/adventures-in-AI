@@ -1,7 +1,11 @@
+**Prereqs**
 ```
-- diagram a perceptron
-- 
+- explore diagram of a perceptron, including: weights, bias, activation
+- show examples of how perceptrons can be connected together
 ```
+
+
+
 
 ## Classification Challenge: predict blue or orange dots found in a 2D space
 > “Pretty much anything that a normal person can do in <1 sec, we can now automate with AI.” –Andrew Ng
@@ -71,6 +75,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwOTc5NDcsMTY3NzE1NzY1NiwtNDM3Mj
-M4MjQ3XX0=
+eyJoaXN0b3J5IjpbLTMxOTk1MTc4LDE2NzcxNTc2NTYsLTQzNz
+IzODI0N119
 -->
