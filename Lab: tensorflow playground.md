@@ -2,6 +2,9 @@
 ```
 - explore diagram of a perceptron, including: weights, bias, activation
 - show examples of how perceptrons can be connected together
+	- show pretrained models
+???: loss functions & gradient descent?
+??
 ```
 
 
@@ -40,6 +43,7 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 4. Hidden Layers
 	- built by connecting many perceptrons in creative ways
 	- build models in 2D, wide & deep. This is the "deep" in "deep learning"
+	- explain activations
 			
 			???: what is the relationship between number of perceptrons and n-dimensions of hyperplane
 			
@@ -72,6 +76,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjcxNzAxMSwxNjc3MTU3NjU2LC00Mz
+eyJoaXN0b3J5IjpbMjAzMjUyNTQ3NiwxNjc3MTU3NjU2LC00Mz
 cyMzgyNDddfQ==
 -->
