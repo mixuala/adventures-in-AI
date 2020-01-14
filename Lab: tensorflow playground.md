@@ -20,9 +20,13 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 	- randomly generated in 2D using different mathematical functions
 	> click `regenerate` to show different samples					
 	- separated into train and test data: you can look at the training set, but your predictions are evaluated on the test set
-	
-			NOTE: for fullscreen view of raw data, see Output Panel with output layer weights=0
-			TODO: get fullscreen projection of data for human challenge
+	> predict blue/orange dots on a 2D chart based on a sample from the dataset.
+![circle](https://i.postimg.cc/cHqGVcW3/tfp-data1.png)
+
+![XOR](https://i.postimg.cc/25LfcKsm/tfp-data2.png)
+![???](https://i.postimg.cc/cHQGZ81b/tfp-data3.png)
+![spiral](https://i.postimg.cc/SRkFKNJN/tfp-data4.png)
+
 	
 2. Neural Network/Model
 	- basic building block is the perceptron,  
@@ -30,16 +34,11 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 	- there are many valid solutions; it's an art not a science, 
 
 3. Features (Inputs)
-> predict blue/orange dots on a 2D chart based on a sample from the dataset.
-![circle](https://i.postimg.cc/cHqGVcW3/tfp-data1.png)
-
-![XOR](https://i.postimg.cc/25LfcKsm/tfp-data2.png)
-![???](https://i.postimg.cc/cHQGZ81b/tfp-data3.png)
-![spiral](https://i.postimg.cc/SRkFKNJN/tfp-data4.png)
-	- raw data: x1, x2  or `(x,y)`
+	- raw data: x1, x2  or `(x,y) coordinates for each orange/blue dot`
 	- "feature engineering" is the manipulation of raw data to create useful features for learning, access to 5 additional engineered features, e.g. x1^2 , x2*x2.
 	
 4. Hidden Layers
+	- build by connecting perceptrons
 	- this is where you get the big money
 	- build models in 2D, wide & deep, 
 	- this is the "deep" in "deep learning"
@@ -75,6 +74,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Mjk0NzkyNywxNjc3MTU3NjU2LC00Mz
-cyMzgyNDddfQ==
+eyJoaXN0b3J5IjpbNjQzMjU4NDc1LDE2NzcxNTc2NTYsLTQzNz
+IzODI0N119
 -->
