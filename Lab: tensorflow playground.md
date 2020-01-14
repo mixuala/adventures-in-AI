@@ -23,6 +23,7 @@ Predict blue or orange dots after viewing a sample of the data:
 	- there are many valid solutions; it's an art not a science, 
 
 3. Features (Inputs)
+> predict blue/orange dots based on a sample from the dataset.
 ![circle](https://i.postimg.cc/cHqGVcW3/tfp-data1.png)
 
 ![XOR](https://i.postimg.cc/25LfcKsm/tfp-data2.png)
@@ -67,5 +68,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzE1NzY1NiwtNDM3MjM4MjQ3XX0=
+eyJoaXN0b3J5IjpbLTk1NjIxMTE1MCwxNjc3MTU3NjU2LC00Mz
+cyMzgyNDddfQ==
 -->
