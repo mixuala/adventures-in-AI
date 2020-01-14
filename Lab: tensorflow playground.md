@@ -4,8 +4,8 @@
 > “Pretty much anything that a normal person can do in <1 sec, we can now automate with AI.” –Andrew Ng
 ### Man vs Machine
 Predict blue or orange dots after viewing a sample of the data:
--	**Humans:** draw a line to separate blue/orange	
--	**AI:** learn a model from 2D data to predict blue or orange based on 2D features
+-	**Humans:** draw a line to separate blue/orange; make predictions
+-	**AI:** learn a model from training data to predict blue or orange
 	
 ## TF Playground Overview
 1. Data (Classification)
@@ -61,5 +61,5 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTcxOTMzNV19
+eyJoaXN0b3J5IjpbLTQzNzIzODI0N119
 -->
