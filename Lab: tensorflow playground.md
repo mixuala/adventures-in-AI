@@ -46,7 +46,7 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 	- "feature engineering" is the manipulation of raw data to create useful features for learning, access to 5 additional engineered features, e.g. x1^2 , x2*x2.
 	
 4. Hidden Layers
-
+![network](https://i.postimg.cc/CKdrL7Hb/rf-playground-network.png)
 	- built by connecting many perceptrons in creative ways
 	- build models in 2D, wide & deep. This is the "deep" in "deep learning"
 	- explain activations
@@ -57,6 +57,7 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 	- for classification challenges: predictions expressed as a probability
 
 ## Learning
+![train]()
 1. Loss functions: e.g. `% wrong`
 2. Gradient Descent: learn the parameters which produce the lowest loss
 
@@ -79,6 +80,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIzODQwMTIsLTk0NTM4NzM5MywxNj
-c3MTU3NjU2LC00MzcyMzgyNDddfQ==
+eyJoaXN0b3J5IjpbMjQ3NDIxNTQ4LC05NDUzODczOTMsMTY3Nz
+E1NzY1NiwtNDM3MjM4MjQ3XX0=
 -->
