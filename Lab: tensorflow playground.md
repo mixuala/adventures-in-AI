@@ -72,11 +72,11 @@ How do you know who  "won" or which model is "best"?
 ### accuracy
 	- test loss, expressed as `% wrong`
 	- color intensity shows confidence in prediction, 100% is the darkest
-	- color intensity between the neurons shows 
+	- color intensity between the neurons proportional to learned weights
 1. **overfitting**
 ![overfitting](https://i.postimg.cc/zGsS5pnf/tfp-overfitting.png)
 	- [https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
-	> Note: the intensity of connections between neurons is lower, this prevents the network from learning "too much"
+	> Note: when the intensity of connections between neurons is darker, suggesting that the input strongs
 
 	
 2. **regularization**: improve accuracy on test data by preventing the network from "learning" too much(!)
@@ -93,7 +93,7 @@ How do you know who  "won" or which model is "best"?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMDMxMDQzLC01MTM2ODA0NzUsLTE5OD
-A5MjY3MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2LC00MzcyMzgy
-NDddfQ==
+eyJoaXN0b3J5IjpbLTE4Njk5NjE5NTgsLTUxMzY4MDQ3NSwtMT
+k4MDkyNjcxNSwtOTQ1Mzg3MzkzLDE2NzcxNTc2NTYsLTQzNzIz
+ODI0N119
 -->
