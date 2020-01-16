@@ -69,17 +69,20 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 ![inference](https://i.postimg.cc/1tqWDzdt/tf-playground-predict.png =240x240)
 How do you know who  "won" or which model is "best"?
 
+
 ### accuracy
 	- test loss, expressed as `% wrong`
 	- color intensity shows confidence in prediction, 100% is the darkest
 	- color intensity between the neurons proportional to learned weights
+
 1. **overfitting**
+Consider a very "deep" model. 
 ![overfitting](https://i.postimg.cc/zGsS5pnf/tfp-overfitting.png)
 	- [https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 	> Note: the intensity of connection between neurons can be strong (darker), which indicates stronger "learning" from the ***training data***
 
 	
-2. **regularization**: improve accuracy on test data by preventing the network from "learning" too much(!)
+3. **regularization**: improve accuracy on test data by preventing the network from learning "too much"
 ![regularization](https://i.postimg.cc/85DRf5XQ/tfp-regularization.png)
 	> Note: the intensity of connections between neurons is weaker, preventing the network from learning "too much"
 	
@@ -93,7 +96,7 @@ How do you know who  "won" or which model is "best"?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTkzMjAwMywtNTEzNjgwNDc1LC0xOT
-gwOTI2NzE1LC05NDUzODczOTMsMTY3NzE1NzY1NiwtNDM3MjM4
-MjQ3XX0=
+eyJoaXN0b3J5IjpbLTE1NzcwNTA4NjUsLTUxMzY4MDQ3NSwtMT
+k4MDkyNjcxNSwtOTQ1Mzg3MzkzLDE2NzcxNTc2NTYsLTQzNzIz
+ODI0N119
 -->
