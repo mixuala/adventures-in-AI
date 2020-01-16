@@ -68,10 +68,11 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 ## Compare/Score/Evaluate
 ![inference](https://i.postimg.cc/1tqWDzdt/tf-playground-predict.png =240x240)
 How do you know who  "won" or which model is "best"
-1. compare accuracy
+### accuracy
 	- test loss, expressed as `% wrong`
 	- color intensity shows confidence in prediction, 100% is the darkest
 	- **overfitting**
+	![overfitting](
 	[overfitting example](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 	
 	- **regularization** to improve accuracy on test data
@@ -87,6 +88,7 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzY4MDQ3NSwtMTk4MDkyNjcxNSwtOT
-Q1Mzg3MzkzLDE2NzcxNTc2NTYsLTQzNzIzODI0N119
+eyJoaXN0b3J5IjpbMTc1NjU2MjE2LC01MTM2ODA0NzUsLTE5OD
+A5MjY3MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2LC00MzcyMzgy
+NDddfQ==
 -->
