@@ -71,7 +71,11 @@ How do you know who  "won" or which model is "best"
 1. compare accuracy
 	- test loss, expressed as `% wrong`
 	- color intensity shows confidence in prediction, 100% is the darkest
+	- **overfitting**
+	[
 	- **regularization** to improve accuracy on test data
+	
+	
 2. compare resources used:
 	3. how long it took to "learn"
 		- **model** determines the "terrain" of the loss surface
@@ -82,6 +86,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODA5MjY3MTUsLTk0NTM4NzM5MywxNj
-c3MTU3NjU2LC00MzcyMzgyNDddfQ==
+eyJoaXN0b3J5IjpbLTIwMTI0NjkwOTgsLTE5ODA5MjY3MTUsLT
+k0NTM4NzM5MywxNjc3MTU3NjU2LC00MzcyMzgyNDddfQ==
 -->
