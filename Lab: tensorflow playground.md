@@ -92,15 +92,17 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 	
 4. compare resources used:
 	3. how long it took to "learn"
+!(
+[https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=4,2,2&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=4,2,2&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 		- **model** determines the "terrain" of the loss surface
 		- **learning rate, activation function, optimization function** determine the path you take to reach the "bottom"
-	5. how long it takes to make a prediction, e.g. **inference**
+	4. how long it takes to make a prediction, e.g. **inference**
 		- proportional to how many parameters in your model
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5MDk5NjI3LC01MTM2ODA0NzUsLTE5OD
-A5MjY3MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2LC00MzcyMzgy
-NDddfQ==
+eyJoaXN0b3J5IjpbMzY0Njg0NzQsNjk5MDk5NjI3LC01MTM2OD
+A0NzUsLTE5ODA5MjY3MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2
+LC00MzcyMzgyNDddfQ==
 -->
