@@ -66,11 +66,10 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 3. train vs test set
 
 ## bias, variance, & overfitting
-> Learn as much as you can from the training data, but __don't learn too much__!
+> Learn as much as you can, but __not too much__!
 
 - **Bias:** make a (simple) prediction without closely considering the data
-- **Variance:**  make a prediction that closely fits the variations in the data. 
-> however, models are only looking at the training data
+- **Variance:**  make a prediction that closely fits the variations in the (training) data.
 
 1. **Overfitting**
 Consider a "deep" model with the capacity to "learn" a very complex "challenge":
@@ -80,6 +79,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
  ```
 ![overfitting](https://i.postimg.cc/zGsS5pnf/tfp-overfitting.png)
 	- [tf playground-deep model with overfitting](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+	- 
 	> Note: the intensity of connection between neurons can be strong (darker), which indicates stronger "learning" from the ***training data***
 
 2. **Regularization**: 
@@ -124,8 +124,8 @@ How do you know who  "won" or which model is "best"?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzkzMjI4MTIsMTQzNjQzMjExOSwtMT
-AyNTU5MDEyLC02ODIyNjM2NjEsNjk5MDk5NjI3LC01MTM2ODA0
-NzUsLTE5ODA5MjY3MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2LC
-00MzcyMzgyNDddfQ==
+eyJoaXN0b3J5IjpbMTY1NTUwODUwNSwxNDM2NDMyMTE5LC0xMD
+I1NTkwMTIsLTY4MjI2MzY2MSw2OTkwOTk2MjcsLTUxMzY4MDQ3
+NSwtMTk4MDkyNjcxNSwtOTQ1Mzg3MzkzLDE2NzcxNTc2NTYsLT
+QzNzIzODI0N119
 -->
