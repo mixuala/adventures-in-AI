@@ -66,7 +66,7 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 4. train vs test set
 
 ## Scoring/Evaluation
-!(inference)[
+![inference](https://i.postimg.cc/1tqWDzdt/tf-playground-predict.png)
 How do you know who  "won" or which model is "best"
 1. compare accuracy
 	- test loss, expressed as `% wrong`
@@ -82,6 +82,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE5MTA1MzMsLTk0NTM4NzM5MywxNj
-c3MTU3NjU2LC00MzcyMzgyNDddfQ==
+eyJoaXN0b3J5IjpbNjA1MTkzMjQxLC05NDUzODczOTMsMTY3Nz
+E1NzY1NiwtNDM3MjM4MjQ3XX0=
 -->
