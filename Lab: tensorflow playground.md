@@ -22,6 +22,7 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 	
 ## TF Playground Overview
 1. Data (Classification)
+![data](https://i.postimg.cc/t4qm8psS/tf-playground-data.png)
 	- 2-class dataset, blue/orange
 	- randomly generated in 2D using different mathematical functions
 	> click `regenerate` to show different samples					
@@ -40,17 +41,19 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 	- there are many valid solutions; it's an art not a science, 
 
 3. Features (Inputs)
+![features](https://i.postimg.cc/Mp9rSNRW/tf-playground-features.png)
 	- raw data: x1, x2  or `(x,y) coordinates for each orange/blue dot`
 	- "feature engineering" is the manipulation of raw data to create useful features for learning, access to 5 additional engineered features, e.g. x1^2 , x2*x2.
 	
 4. Hidden Layers
+
 	- built by connecting many perceptrons in creative ways
 	- build models in 2D, wide & deep. This is the "deep" in "deep learning"
 	- explain activations
 			
 			???: what is the relationship between number of perceptrons and n-dimensions of hyperplane
 			
-5. Output Layer: convert final activations into predictions
+6. Output Layer: convert final activations into predictions
 	- for classification challenges: predictions expressed as a probability
 
 ## Learning
@@ -76,6 +79,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTM4NzM5MywxNjc3MTU3NjU2LC00Mz
-cyMzgyNDddfQ==
+eyJoaXN0b3J5IjpbLTEyMDIzODQwMTIsLTk0NTM4NzM5MywxNj
+c3MTU3NjU2LC00MzcyMzgyNDddfQ==
 -->
