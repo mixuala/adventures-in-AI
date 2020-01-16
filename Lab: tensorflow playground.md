@@ -75,7 +75,7 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 ```
 5 layers of 8 fully connected neurons
-5 x (8x8) + (5x8) = 360 parameters
+5 x (8x8) + (5x8) = 360 parameters 
  ```
 ![overfitting](https://i.postimg.cc/zGsS5pnf/tfp-overfitting.png)
 	- [tf playground-deep model with overfitting](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
@@ -133,7 +133,7 @@ How do you know who  "won" or which model is "best"?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Mjc4MzA0MCwxNDM2NDMyMTE5LC0xMD
+eyJoaXN0b3J5IjpbMjA4OTY5MzA4OCwxNDM2NDMyMTE5LC0xMD
 I1NTkwMTIsLTY4MjI2MzY2MSw2OTkwOTk2MjcsLTUxMzY4MDQ3
 NSwtMTk4MDkyNjcxNSwtOTQ1Mzg3MzkzLDE2NzcxNTc2NTYsLT
 QzNzIzODI0N119
