@@ -98,9 +98,10 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 	
 		|   model | simple  | deep |
 		|:-------------- | --- | --- |
-		
+		|   model | 4x2x2 | 8x8x8x8x8 |
 		|   parameters | 28 | 360 |
-		|   epochs | 180 | 490| 	
+		|   epochs | 180 | 490 |
+		|   accuracy | 85% | 85% | 	
 		
 ![simple network](https://i.postimg.cc/BQRyXrD5/tfp-simple-model.png)
 [tf playground-simple model](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=4,2,2&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
@@ -112,7 +113,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc1NDAwMzYsLTY4MjI2MzY2MSw2OT
-kwOTk2MjcsLTUxMzY4MDQ3NSwtMTk4MDkyNjcxNSwtOTQ1Mzg3
-MzkzLDE2NzcxNTc2NTYsLTQzNzIzODI0N119
+eyJoaXN0b3J5IjpbLTEwMjU1OTAxMiwtNjgyMjYzNjYxLDY5OT
+A5OTYyNywtNTEzNjgwNDc1LC0xOTgwOTI2NzE1LC05NDUzODcz
+OTMsMTY3NzE1NzY1NiwtNDM3MjM4MjQ3XX0=
 -->
