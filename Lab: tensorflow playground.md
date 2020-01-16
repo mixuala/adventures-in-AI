@@ -68,8 +68,8 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 ## bias, variance, & overfitting
 > Learn as much as you can from the training data, but __don't learn too much__!
 
-- **Bias:** make the same pre without looking closely at the data
-- **Variance:**  
+- **Bias:** make the same prediction without looking closely at the data
+- **Variance:**  make a prediction that closely fits the **training** data
 
 1. **Overfitting**
 Consider a "deep" model with the capacity to "learn" a very complex "challenge":
@@ -123,7 +123,7 @@ How do you know who  "won" or which model is "best"?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTYyNjI0NCwtMTAyNTU5MDEyLC02OD
+eyJoaXN0b3J5IjpbMTQzNjQzMjExOSwtMTAyNTU5MDEyLC02OD
 IyNjM2NjEsNjk5MDk5NjI3LC01MTM2ODA0NzUsLTE5ODA5MjY3
 MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2LC00MzcyMzgyNDddfQ
 ==
