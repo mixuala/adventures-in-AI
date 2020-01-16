@@ -63,20 +63,11 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 2. Gradient Descent: learn the parameters which produce the lowest loss
 
 		TODO: show animation of gradient descent
-4. train vs test set
+3. train vs test set
 
-## Compare/Score/Evaluate
-![inference](https://i.postimg.cc/1tqWDzdt/tf-playground-predict.png =240x240)
-How do you know who  "won" or which model is "best"?
-
-
-### Accuracy
-	- test loss, expressed as `% wrong`
-	- color intensity shows confidence in prediction, 100% is the darkest
-	- color intensity between the neurons proportional to learned weights
-	
 ## bias, variance, & overfitting
-1. **overfitting**
+> Learn as much as you can from the training data, but __don't learn too much__!
+1. **Overfitting**
 Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 ```
 5 layers of 8 fully connected neurons
@@ -93,6 +84,20 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 [tf playground-deep model with regularization](https://playground.tensorflow.org/#activation=tanh&regularization=L2&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 	> Note: the intensity of connections between neurons is weaker, preventing the network from learning "too much"
 	
+	
+
+## Compare/Score/Evaluate
+![inference](https://i.postimg.cc/1tqWDzdt/tf-playground-predict.png =240x240)
+How do you know who  "won" or which model is "best"?
+
+
+### Accuracy
+	- test loss, expressed as `% wrong`
+	- color intensity shows confidence in prediction, 100% is the darkest
+	- color intensity between the neurons proportional to learned weights
+	
+
+
 ### Resources
 	- how long it took to "learn"
 
@@ -114,8 +119,8 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAzMTM4MTksLTEwMjU1OTAxMiwtNj
-gyMjYzNjYxLDY5OTA5OTYyNywtNTEzNjgwNDc1LC0xOTgwOTI2
-NzE1LC05NDUzODczOTMsMTY3NzE1NzY1NiwtNDM3MjM4MjQ3XX
-0=
+eyJoaXN0b3J5IjpbMjEwNDYwNjQ4MCwtMTAyNTU5MDEyLC02OD
+IyNjM2NjEsNjk5MDk5NjI3LC01MTM2ODA0NzUsLTE5ODA5MjY3
+MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2LC00MzcyMzgyNDddfQ
+==
 -->
