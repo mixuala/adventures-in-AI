@@ -22,7 +22,7 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 	
 ## TF Playground Overview
 1. Data (Classification)
-![data](https://i.postimg.cc/t4qm8psS/tf-playground-data.png)
+![data](https://i.postimg.cc/t4qm8psS/tf-playground-data.png =240x200)
 	- 2-class dataset, blue/orange
 	- randomly generated in 2D using different mathematical functions
 	> click `regenerate` to show different samples					
@@ -82,6 +82,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1MTkzMjQxLC05NDUzODczOTMsMTY3Nz
+eyJoaXN0b3J5IjpbNTQ3NDgyODc4LC05NDUzODczOTMsMTY3Nz
 E1NzY1NiwtNDM3MjM4MjQ3XX0=
 -->
