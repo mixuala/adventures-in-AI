@@ -93,15 +93,16 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 [tf playground-deep model with regularization](https://playground.tensorflow.org/#activation=tanh&regularization=L2&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 	> Note: the intensity of connections between neurons is weaker, preventing the network from learning "too much"
 	
-4. compare resources used:
+### Resources
 	- how long it took to "learn"
-	
-		|   model | simple  | deep |
-		|:-------------- | --- | --- |
-		|   model | 4x2x2 | 8x8x8x8x8 |
-		|   parameters | 28 | 360 |
-		|   epochs | 180 | 660 |
-		|   accuracy | 85% | 85% | 	
+
+|   model | simple  | deep |
+|:-------------- | --- | --- |
+|   model | 4x2x2 | 8x8x8x8x8 |
+|   parameters | 28 | 360 |
+|   epochs | 180 | 660 |
+|   accuracy | 85% | 85% | 	
+		
 		
 ![simple network](https://i.postimg.cc/BQRyXrD5/tfp-simple-model.png)
 [tf playground-simple model](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=4,2,2&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
@@ -113,8 +114,8 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUyNjkzNTksLTEwMjU1OTAxMiwtNj
-gyMjYzNjYxLDY5OTA5OTYyNywtNTEzNjgwNDc1LC0xOTgwOTI2
-NzE1LC05NDUzODczOTMsMTY3NzE1NzY1NiwtNDM3MjM4MjQ3XX
-0=
+eyJoaXN0b3J5IjpbMTMxMjk5NzY4NiwtMTAyNTU5MDEyLC02OD
+IyNjM2NjEsNjk5MDk5NjI3LC01MTM2ODA0NzUsLTE5ODA5MjY3
+MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2LC00MzcyMzgyNDddfQ
+==
 -->
