@@ -82,13 +82,13 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 5 x (8x8) + (5x8) = 360 parameters
  ```
 ![overfitting](https://i.postimg.cc/zGsS5pnf/tfp-overfitting.png)
-	- [tf playground-overfitting example](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+	- [tf playground-deep model with overfitting](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 	> Note: the intensity of connection between neurons can be strong (darker), which indicates stronger "learning" from the ***training data***
 
 	
-3. **regularization**: improve accuracy on test data by preventing the network from learning "too much"
+3. **regularization**: improve accuracy on test data by preventing the network from learning strong weights
 ![regularization](https://i.postimg.cc/85DRf5XQ/tfp-regularization.png)
-[tf playground-deep mod](https://playground.tensorflow.org/#activation=tanh&regularization=L2&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+[tf playground-deep model with regularization](https://playground.tensorflow.org/#activation=tanh&regularization=L2&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 	> Note: the intensity of connections between neurons is weaker, preventing the network from learning "too much"
 	
 4. compare resources used:
@@ -103,7 +103,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzYxNzI1NjQsLTY4MjI2MzY2MSw2OT
-kwOTk2MjcsLTUxMzY4MDQ3NSwtMTk4MDkyNjcxNSwtOTQ1Mzg3
-MzkzLDE2NzcxNTc2NTYsLTQzNzIzODI0N119
+eyJoaXN0b3J5IjpbMjE0MzkxMTUzNSwtNjgyMjYzNjYxLDY5OT
+A5OTYyNywtNTEzNjgwNDc1LC0xOTgwOTI2NzE1LC05NDUzODcz
+OTMsMTY3NzE1NzY1NiwtNDM3MjM4MjQ3XX0=
 -->
