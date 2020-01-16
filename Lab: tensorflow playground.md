@@ -76,7 +76,7 @@ How do you know who  "won" or which model is "best"?
 	- color intensity between the neurons proportional to learned weights
 
 1. **overfitting**
-Consider a "deep" model with the capacity to le:
+Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 ```
 5 layers of 8 fully connected neurons
 5 x (8x8) + (5x8) = 360 parameters
@@ -100,7 +100,7 @@ Consider a "deep" model with the capacity to le:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM5MzQ3NjIsLTUxMzY4MDQ3NSwtMT
-k4MDkyNjcxNSwtOTQ1Mzg3MzkzLDE2NzcxNTc2NTYsLTQzNzIz
-ODI0N119
+eyJoaXN0b3J5IjpbNjk5MDk5NjI3LC01MTM2ODA0NzUsLTE5OD
+A5MjY3MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2LC00MzcyMzgy
+NDddfQ==
 -->
