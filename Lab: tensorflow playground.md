@@ -70,7 +70,7 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 How do you know who  "won" or which model is "best"?
 
 
-### accuracy
+### accuracy (bias, variance, & overfitting)
 	- test loss, expressed as `% wrong`
 	- color intensity shows confidence in prediction, 100% is the darkest
 	- color intensity between the neurons proportional to learned weights
@@ -113,7 +113,8 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NDI0NTc5LC0xMDI1NTkwMTIsLTY4Mj
-I2MzY2MSw2OTkwOTk2MjcsLTUxMzY4MDQ3NSwtMTk4MDkyNjcx
-NSwtOTQ1Mzg3MzkzLDE2NzcxNTc2NTYsLTQzNzIzODI0N119
+eyJoaXN0b3J5IjpbLTExODUyNjkzNTksLTEwMjU1OTAxMiwtNj
+gyMjYzNjYxLDY5OTA5OTYyNywtNTEzNjgwNDc1LC0xOTgwOTI2
+NzE1LC05NDUzODczOTMsMTY3NzE1NzY1NiwtNDM3MjM4MjQ3XX
+0=
 -->
