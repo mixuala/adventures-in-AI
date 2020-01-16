@@ -72,6 +72,7 @@ How do you know who  "won" or which model is "best"
 	- test loss, expressed as `% wrong`
 	- color intensity shows confidence in prediction, 100% is the darkest
 1. **overfitting**
+![overfitting](https://i.postimg.cc/zGsS5pnf/tfp-overfitting.png)
 	- [https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 	- 
 	![overfitting](
@@ -80,7 +81,7 @@ How do you know who  "won" or which model is "best"
 	- **regularization** to improve accuracy on test data
 	
 	
-2. compare resources used:
+3. compare resources used:
 	3. how long it took to "learn"
 		- **model** determines the "terrain" of the loss surface
 		- **learning rate, activation function, optimization function** determine the path you take to reach the "bottom"
@@ -90,7 +91,7 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDQ2MjYwMywtNTEzNjgwNDc1LC0xOT
+eyJoaXN0b3J5IjpbMTg0NTM2NDY2NSwtNTEzNjgwNDc1LC0xOT
 gwOTI2NzE1LC05NDUzODczOTMsMTY3NzE1NzY1NiwtNDM3MjM4
 MjQ3XX0=
 -->
