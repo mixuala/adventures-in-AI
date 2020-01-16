@@ -100,7 +100,9 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 	180 Epochs
 	```
 	| model | simple  | deep |
-	| parameters | 28 | 360 	
+	| --- | --- | --- |
+	| parameters | 28 | 360 |
+	| epochs | 180 | 490| 	
 ![simple network](https://i.postimg.cc/BQRyXrD5/tfp-simple-model.png)
 [tf playground-simple model](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=4,2,2&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 		- **model** determines the "terrain" of the loss surface
@@ -111,7 +113,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE3MjE3NjYsLTY4MjI2MzY2MSw2OT
+eyJoaXN0b3J5IjpbLTE0MzE0MzM2NTcsLTY4MjI2MzY2MSw2OT
 kwOTk2MjcsLTUxMzY4MDQ3NSwtMTk4MDkyNjcxNSwtOTQ1Mzg3
 MzkzLDE2NzcxNTc2NTYsLTQzNzIzODI0N119
 -->
