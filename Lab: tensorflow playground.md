@@ -81,7 +81,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 	- [tf playground-deep model with overfitting](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 > 2% error rate on predictions from the **training data**, but
-> 15% error rate against the **test data**
+> 18% error rate against the **test data**
 > the predictions fit the training data **too closely**
 
 	> Note: the intensity of connection between neurons can be strong (darker), which indicates stronger "learning" from the ***training data***
@@ -92,9 +92,9 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 ![regularization](https://i.postimg.cc/pdtqb85z/tfp-regularization-2.png)
 [tf playground-deep model with regularization](https://playground.tensorflow.org/#activation=tanh&regularization=L2&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
-> 2% error rate on predictions from the **training data**, but
+> 9% error rate on predictions from the **training data**, but
 > 15% error rate against the **test data**
-> the predictions fit the training data **too closely**
+> the predictions fit the training data 
 
 	> Note: the intensity of connections between neurons is weaker, preventing the network from learning "too much"
 	
@@ -133,8 +133,8 @@ How do you know who  "won" or which model is "best"?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDQzNTMwOCwxNDM2NDMyMTE5LC0xMD
-I1NTkwMTIsLTY4MjI2MzY2MSw2OTkwOTk2MjcsLTUxMzY4MDQ3
-NSwtMTk4MDkyNjcxNSwtOTQ1Mzg3MzkzLDE2NzcxNTc2NTYsLT
-QzNzIzODI0N119
+eyJoaXN0b3J5IjpbLTE4MjYxNjE1ODMsMTQzNjQzMjExOSwtMT
+AyNTU5MDEyLC02ODIyNjM2NjEsNjk5MDk5NjI3LC01MTM2ODA0
+NzUsLTE5ODA5MjY3MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2LC
+00MzcyMzgyNDddfQ==
 -->
