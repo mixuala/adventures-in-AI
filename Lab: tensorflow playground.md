@@ -82,7 +82,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 5 x (8x8) + (5x8) = 360 parameters
  ```
 ![overfitting](https://i.postimg.cc/zGsS5pnf/tfp-overfitting.png)
-	- [https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+	- [tf playground-overfitting example](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 	> Note: the intensity of connection between neurons can be strong (darker), which indicates stronger "learning" from the ***training data***
 
 	
@@ -102,7 +102,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjI2MzY2MSw2OTkwOTk2MjcsLTUxMz
-Y4MDQ3NSwtMTk4MDkyNjcxNSwtOTQ1Mzg3MzkzLDE2NzcxNTc2
-NTYsLTQzNzIzODI0N119
+eyJoaXN0b3J5IjpbLTE4NTYyNzA3MzEsLTY4MjI2MzY2MSw2OT
+kwOTk2MjcsLTUxMzY4MDQ3NSwtMTk4MDkyNjcxNSwtOTQ1Mzg3
+MzkzLDE2NzcxNTc2NTYsLTQzNzIzODI0N119
 -->
