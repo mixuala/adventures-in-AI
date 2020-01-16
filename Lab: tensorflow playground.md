@@ -67,6 +67,10 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 
 ## bias, variance, & overfitting
 > Learn as much as you can from the training data, but __don't learn too much__!
+
+- **Bias:** make the same pre without looking closely at the data
+- **Variance:**  
+
 1. **Overfitting**
 Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 ```
@@ -77,7 +81,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 	- [tf playground-deep model with overfitting](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 	> Note: the intensity of connection between neurons can be strong (darker), which indicates stronger "learning" from the ***training data***
 
-2. **regularization**: 
+2. **Regularization**: 
 	- improve accuracy on test data by preventing the network from learning strong weights (from the training data)
 	- other strategies to prevent **overfitting** include: `early stopping`, `dropout`
 ![regularization](https://i.postimg.cc/pdtqb85z/tfp-regularization-2.png)
@@ -119,7 +123,7 @@ How do you know who  "won" or which model is "best"?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDYwNjQ4MCwtMTAyNTU5MDEyLC02OD
+eyJoaXN0b3J5IjpbMTA5NTYyNjI0NCwtMTAyNTU5MDEyLC02OD
 IyNjM2NjEsNjk5MDk5NjI3LC01MTM2ODA0NzUsLTE5ODA5MjY3
 MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2LC00MzcyMzgyNDddfQ
 ==
