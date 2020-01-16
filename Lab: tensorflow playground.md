@@ -22,7 +22,7 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 	
 ## TF Playground Overview
 1. Data (Classification)
-![data](https://i.postimg.cc/t4qm8psS/tf-playground-data.png =240x200)
+![data](https://i.postimg.cc/t4qm8psS/tf-playground-data.png =240x240)
 	- 2-class dataset, blue/orange
 	- randomly generated in 2D using different mathematical functions
 	> click `regenerate` to show different samples					
@@ -41,12 +41,12 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 	- there are many valid solutions; it's an art not a science, 
 
 3. Features (Inputs)
-![features](https://i.postimg.cc/Mp9rSNRW/tf-playground-features.png)
+![features](https://i.postimg.cc/Mp9rSNRW/tf-playground-features.png =240x240)
 	- raw data: x1, x2  or `(x,y) coordinates for each orange/blue dot`
 	- "feature engineering" is the manipulation of raw data to create useful features for learning, access to 5 additional engineered features, e.g. x1^2 , x2*x2.
 	
 4. Hidden Layers
-![network](https://i.postimg.cc/CKdrL7Hb/rf-playground-network.png)
+![network](https://i.postimg.cc/CKdrL7Hb/rf-playground-network.png =240x240)
 	- built by connecting many perceptrons in creative ways
 	- build models in 2D, wide & deep. This is the "deep" in "deep learning"
 	- explain activations
@@ -54,19 +54,19 @@ Predict blue or orange dots on a 2D chart from a sample of the dataset:
 			???: what is the relationship between number of perceptrons and n-dimensions of hyperplane
 			
 5. Output Layer: convert final activations into predictions
-![output](https://i.postimg.cc/tgfS162w/tf-playground-ouput.png)
+![output](https://i.postimg.cc/tgfS162w/tf-playground-ouput.png =240x240)
 	- for classification challenges: predictions expressed as a probability
 
 ## Learning
-![train](https://i.postimg.cc/zX1QSn81/tf-playground-train.png)
+![train](https://i.postimg.cc/zX1QSn81/tf-playground-train.png =240x240)
 1. Loss functions: e.g. `% wrong`
 2. Gradient Descent: learn the parameters which produce the lowest loss
 
 		TODO: show animation of gradient descent
 4. train vs test set
 
-## Scoring/Evaluation
-![inference](https://i.postimg.cc/1tqWDzdt/tf-playground-predict.png)
+## Compare/Score/Evaluate
+![inference](https://i.postimg.cc/1tqWDzdt/tf-playground-predict.png =240x240)
 How do you know who  "won" or which model is "best"
 1. compare accuracy
 	- test loss, expressed as `% wrong`
@@ -82,6 +82,6 @@ How do you know who  "won" or which model is "best"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NDgyODc4LC05NDUzODczOTMsMTY3Nz
-E1NzY1NiwtNDM3MjM4MjQ3XX0=
+eyJoaXN0b3J5IjpbLTE5ODA5MjY3MTUsLTk0NTM4NzM5MywxNj
+c3MTU3NjU2LC00MzcyMzgyNDddfQ==
 -->
