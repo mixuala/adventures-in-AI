@@ -92,7 +92,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 ![regularization](https://i.postimg.cc/pdtqb85z/tfp-regularization-2.png)
 [tf playground-deep model with regularization](https://playground.tensorflow.org/#activation=tanh&regularization=L2&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
-	> Note: the intensity of connections between neurons is weaker, compared to the example without preventing the network from learning "too much"
+		> Note: the intensity of connections between neurons is weaker, compared to the example without regularization. This prevents the network from learning "too much".
 	
 	
 > 9% error rate on predictions from the **training data**, but
@@ -133,7 +133,7 @@ How do you know who  "won" or which model is "best"?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTM0NTQzOSwxNDM2NDMyMTE5LC0xMD
+eyJoaXN0b3J5IjpbLTg5Mjc4MzA0MCwxNDM2NDMyMTE5LC0xMD
 I1NTkwMTIsLTY4MjI2MzY2MSw2OTkwOTk2MjcsLTUxMzY4MDQ3
 NSwtMTk4MDkyNjcxNSwtOTQ1Mzg3MzkzLDE2NzcxNTc2NTYsLT
 QzNzIzODI0N119
