@@ -96,7 +96,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 4. compare resources used:
 	- how long it took to "learn"
 	```
-	
+	(2x4) + (4x2) + (2x2) +  
 	180 Epochs vs. 500 for "deep" model 
 	```
 ![simple network](https://i.postimg.cc/BQRyXrD5/tfp-simple-model.png)
@@ -109,7 +109,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2OTQwNjExLC02ODIyNjM2NjEsNjk5MD
+eyJoaXN0b3J5IjpbMjc2NjQxODM3LC02ODIyNjM2NjEsNjk5MD
 k5NjI3LC01MTM2ODA0NzUsLTE5ODA5MjY3MTUsLTk0NTM4NzM5
 MywxNjc3MTU3NjU2LC00MzcyMzgyNDddfQ==
 -->
