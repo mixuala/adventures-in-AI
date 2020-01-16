@@ -89,7 +89,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 2. **regularization**: 
 	- improve accuracy on test data by preventing the network from learning strong weights (from the training data)
 	- other strategies to prevent **overfitting** include: `early stopping`, `dropout`
-![regularization](https://i.postimg.cc/85DRf5XQ/tfp-regularization.png)
+![regularization](https://i.postimg.cc/pdtqb85z/tfp-regularization-2.png)
 [tf playground-deep model with regularization](https://playground.tensorflow.org/#activation=tanh&regularization=L2&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 	> Note: the intensity of connections between neurons is weaker, preventing the network from learning "too much"
 	
@@ -100,7 +100,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 		|:-------------- | --- | --- |
 		|   model | 4x2x2 | 8x8x8x8x8 |
 		|   parameters | 28 | 360 |
-		|   epochs | 180 | 490 |
+		|   epochs | 180 | 660 |
 		|   accuracy | 85% | 85% | 	
 		
 ![simple network](https://i.postimg.cc/BQRyXrD5/tfp-simple-model.png)
@@ -113,7 +113,7 @@ Consider a "deep" model with the capacity to "learn" a very complex "challenge":
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU1OTAxMiwtNjgyMjYzNjYxLDY5OT
-A5OTYyNywtNTEzNjgwNDc1LC0xOTgwOTI2NzE1LC05NDUzODcz
-OTMsMTY3NzE1NzY1NiwtNDM3MjM4MjQ3XX0=
+eyJoaXN0b3J5IjpbNDk3NDI0NTc5LC0xMDI1NTkwMTIsLTY4Mj
+I2MzY2MSw2OTkwOTk2MjcsLTUxMzY4MDQ3NSwtMTk4MDkyNjcx
+NSwtOTQ1Mzg3MzkzLDE2NzcxNTc2NTYsLTQzNzIzODI0N119
 -->
