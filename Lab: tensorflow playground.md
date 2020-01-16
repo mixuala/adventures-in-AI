@@ -79,7 +79,7 @@ How do you know who  "won" or which model is "best"?
 Consider a very "deep" model:
 ```
 5 layers of 8 fully connected neurons
-5x8x8 
+5 x (8x8) + (5x8) = 
  ```
 ![overfitting](https://i.postimg.cc/zGsS5pnf/tfp-overfitting.png)
 	- [https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0.03&noise=30&networkShape=8,8,8,8,8&seed=0.35842&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
@@ -100,7 +100,7 @@ Consider a very "deep" model:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MjAzNDU3LC01MTM2ODA0NzUsLTE5OD
-A5MjY3MTUsLTk0NTM4NzM5MywxNjc3MTU3NjU2LC00MzcyMzgy
-NDddfQ==
+eyJoaXN0b3J5IjpbMTAwNDIwNjAyOCwtNTEzNjgwNDc1LC0xOT
+gwOTI2NzE1LC05NDUzODczOTMsMTY3NzE1NzY1NiwtNDM3MjM4
+MjQ3XX0=
 -->
