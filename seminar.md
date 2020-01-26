@@ -37,6 +37,7 @@
   1. data, data, data
   2. deep, deeper, deepest, the power of n-dimensions
 		* [Matthieu Robert-Ortis](https://cargocollective.com/matthieu-robert-ortis)
+![dna](https://i.postimg.cc/R04G6B70/IMG-3317.jpg)
 > [https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc](https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc)
 ![animals](https://youtu.be/7SnLKq5b5Y0?time_continue=8)
 
@@ -316,9 +317,10 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI3MDEyMjAsNjYyMDQ5OTkxLDIxOD
-YxNzMwNywtNTUxNTM3OTM3LC0xNjY5NDk2MjQyLDIyNjUxMjEw
-MCwtNDM1NjU1NzQyLC0xOTE0OTM2MDE0LDE1ODU5MTEwMCw2Nz
-I3OTcyODMsOTk5MTYzMDU0LDIwOTI3NzMyNzIsLTg2NTU3MTA3
-LC0yNzI0OTYxMTUsMTU5NjY2NTU2NiwzMzQwMDc3MTJdfQ==
+eyJoaXN0b3J5IjpbMTQ5NzU1MjEzMSwtMTIzMjcwMTIyMCw2Nj
+IwNDk5OTEsMjE4NjE3MzA3LC01NTE1Mzc5MzcsLTE2Njk0OTYy
+NDIsMjI2NTEyMTAwLC00MzU2NTU3NDIsLTE5MTQ5MzYwMTQsMT
+U4NTkxMTAwLDY3Mjc5NzI4Myw5OTkxNjMwNTQsMjA5Mjc3MzI3
+MiwtODY1NTcxMDcsLTI3MjQ5NjExNSwxNTk2NjY1NTY2LDMzND
+AwNzcxMl19
 -->
