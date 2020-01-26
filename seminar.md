@@ -59,6 +59,7 @@
 
 * AI > **machine learning** > deep learning
 ![word cloud](https://iiot-world.com/wp-content/uploads/2017/05/word-cloud.png)
+![https://towardsdatascience.com/rolling-in-the-deep-learning-basic-concepts-for-everyone-84bdb4766d18](https://miro.medium.com/max/1107/0*YQsvWvbnIW8OBQVT)
   ???: machine learning is the practice of algorthims to findi patterns in data
   * computer vision
   * natural language 
@@ -312,9 +313,9 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTUzNzkzNywtMTY2OTQ5NjI0MiwyMj
-Y1MTIxMDAsLTQzNTY1NTc0MiwtMTkxNDkzNjAxNCwxNTg1OTEx
-MDAsNjcyNzk3MjgzLDk5OTE2MzA1NCwyMDkyNzczMjcyLC04Nj
-U1NzEwNywtMjcyNDk2MTE1LDE1OTY2NjU1NjYsMzM0MDA3NzEy
-XX0=
+eyJoaXN0b3J5IjpbMjE4NjE3MzA3LC01NTE1Mzc5MzcsLTE2Nj
+k0OTYyNDIsMjI2NTEyMTAwLC00MzU2NTU3NDIsLTE5MTQ5MzYw
+MTQsMTU4NTkxMTAwLDY3Mjc5NzI4Myw5OTkxNjMwNTQsMjA5Mj
+c3MzI3MiwtODY1NTcxMDcsLTI3MjQ5NjExNSwxNTk2NjY1NTY2
+LDMzNDAwNzcxMl19
 -->
