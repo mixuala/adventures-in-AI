@@ -36,6 +36,7 @@
 1. deep learning basics
   1. data, data, data
   2. deep, deeper, deepest, the power of n-dimensions
+  3. [Matthieu Robert-Ortis](https://cargocollective.com/matthieu-robert-ortis)
 [https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc](https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc)
 https://youtu.be/7SnLKq5b5Y0
 
@@ -315,7 +316,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0NDMwMjQ5LDIxODYxNzMwNywtNTUxNT
+eyJoaXN0b3J5IjpbNjYyMDQ5OTkxLDIxODYxNzMwNywtNTUxNT
 M3OTM3LC0xNjY5NDk2MjQyLDIyNjUxMjEwMCwtNDM1NjU1NzQy
 LC0xOTE0OTM2MDE0LDE1ODU5MTEwMCw2NzI3OTcyODMsOTk5MT
 YzMDU0LDIwOTI3NzMyNzIsLTg2NTU3MTA3LC0yNzI0OTYxMTUs
