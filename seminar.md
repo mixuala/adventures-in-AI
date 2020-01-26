@@ -38,7 +38,9 @@
   2. deep, deeper, deepest, the power of n-dimensions
 		* [Matthieu Robert-Ortis](https://cargocollective.com/matthieu-robert-ortis)
  !["Epigénétique"](https://i.postimg.cc/R04G6B70/IMG-3317.jpg)
-> ](https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc)
+(https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc)
+
+
 ![animals](https://youtu.be/7SnLKq5b5Y0?time_continue=8)
 
 1. deep learning progress: better, smaller, faster
@@ -317,7 +319,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDk3NzAwNSwtMTIzMjcwMTIyMCw2Nj
+eyJoaXN0b3J5IjpbMTg4NjcxOTEzOCwtMTIzMjcwMTIyMCw2Nj
 IwNDk5OTEsMjE4NjE3MzA3LC01NTE1Mzc5MzcsLTE2Njk0OTYy
 NDIsMjI2NTEyMTAwLC00MzU2NTU3NDIsLTE5MTQ5MzYwMTQsMT
 U4NTkxMTAwLDY3Mjc5NzI4Myw5OTkxNjMwNTQsMjA5Mjc3MzI3
