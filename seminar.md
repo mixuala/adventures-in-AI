@@ -37,10 +37,10 @@
   1. data, data, data
   2. deep, deeper, deepest, the power of n-dimensions
 		* [Matthieu Robert-Ortis](https://cargocollective.com/matthieu-robert-ortis)
-[!["Epigénétique"](https://i.postimg.cc/R04G6B70/IMG-3317.jpg)](https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc)
+		
+[!["Epigénétique"](https://i.postimg.cc/R04G6B70/IMG-3317.jpg =240x240)](https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc)
 
-![animals](https://i.postimg.cc/8zhtz5r3/IMG-3319.jpg)
-[animals](https://youtu.be/7SnLKq5b5Y0?time_continue=8)
+[![animals](https://i.postimg.cc/8zhtz5r3/IMG-3319.jpg =240x240)](https://youtu.be/7SnLKq5b5Y0?time_continue=8)
 
 1. deep learning progress: better, smaller, faster
   see: https://interestingengineering.com/11-times-ai-beat-humans-at-games-art-law-and-everything-in-between
@@ -318,7 +318,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMDUyMzkwLC0xMjMyNzAxMjIwLDY2Mj
+eyJoaXN0b3J5IjpbMTc1NzEyMjQ5LC0xMjMyNzAxMjIwLDY2Mj
 A0OTk5MSwyMTg2MTczMDcsLTU1MTUzNzkzNywtMTY2OTQ5NjI0
 MiwyMjY1MTIxMDAsLTQzNTY1NTc0MiwtMTkxNDkzNjAxNCwxNT
 g1OTExMDAsNjcyNzk3MjgzLDk5OTE2MzA1NCwyMDkyNzczMjcy
