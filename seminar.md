@@ -62,6 +62,9 @@
   ???: machine learning is the practice of algorthims to findi patterns in data
   * computer vision
   * natural language 
+  
+* types of learning
+	> [https://machinelearningmastery.com/types-of-learning-in-machine-learning/](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
 
 * tensors: life in n-dimensions 
 
@@ -309,8 +312,9 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk0OTYyNDIsMjI2NTEyMTAwLC00Mz
-U2NTU3NDIsLTE5MTQ5MzYwMTQsMTU4NTkxMTAwLDY3Mjc5NzI4
-Myw5OTkxNjMwNTQsMjA5Mjc3MzI3MiwtODY1NTcxMDcsLTI3Mj
-Q5NjExNSwxNTk2NjY1NTY2LDMzNDAwNzcxMl19
+eyJoaXN0b3J5IjpbLTU1MTUzNzkzNywtMTY2OTQ5NjI0MiwyMj
+Y1MTIxMDAsLTQzNTY1NTc0MiwtMTkxNDkzNjAxNCwxNTg1OTEx
+MDAsNjcyNzk3MjgzLDk5OTE2MzA1NCwyMDkyNzczMjcyLC04Nj
+U1NzEwNywtMjcyNDk2MTE1LDE1OTY2NjU1NjYsMzM0MDA3NzEy
+XX0=
 -->
