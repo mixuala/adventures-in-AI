@@ -38,7 +38,7 @@
   2. deep, deeper, deepest, the power of n-dimensions
 		* [Matthieu Robert-Ortis](https://cargocollective.com/matthieu-robert-ortis)
 > [https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc](https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc)
-(
+![animals](https://youtu.be/7SnLKq5b5Y0?time_continue=8)
 
 1. deep learning progress: better, smaller, faster
   see: https://interestingengineering.com/11-times-ai-beat-humans-at-games-art-law-and-everything-in-between
@@ -316,7 +316,7 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDAxMzQ4NTAsNjYyMDQ5OTkxLDIxOD
+eyJoaXN0b3J5IjpbLTEyMzI3MDEyMjAsNjYyMDQ5OTkxLDIxOD
 YxNzMwNywtNTUxNTM3OTM3LC0xNjY5NDk2MjQyLDIyNjUxMjEw
 MCwtNDM1NjU1NzQyLC0xOTE0OTM2MDE0LDE1ODU5MTEwMCw2Nz
 I3OTcyODMsOTk5MTYzMDU0LDIwOTI3NzMyNzIsLTg2NTU3MTA3
