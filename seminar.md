@@ -221,6 +221,9 @@ What does the network see? [https://distill.pub/2018/building-blocks/](https://d
 
 ## Interesting
 [back to top](#toc)
+
+* ![precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall#/media/File:Precisionrecall.svg)
+* 
 * visualizations and disentanglement, 
   * https://distill.pub/2017/feature-visualization/
 
@@ -320,10 +323,10 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTAyMDk2OCwtMTU4MjA5ODE1NSwtMT
-IzMjcwMTIyMCw2NjIwNDk5OTEsMjE4NjE3MzA3LC01NTE1Mzc5
-MzcsLTE2Njk0OTYyNDIsMjI2NTEyMTAwLC00MzU2NTU3NDIsLT
-E5MTQ5MzYwMTQsMTU4NTkxMTAwLDY3Mjc5NzI4Myw5OTkxNjMw
-NTQsMjA5Mjc3MzI3MiwtODY1NTcxMDcsLTI3MjQ5NjExNSwxNT
-k2NjY1NTY2LDMzNDAwNzcxMl19
+eyJoaXN0b3J5IjpbLTQ1NDQzNTQ3MywtODExMDIwOTY4LC0xNT
+gyMDk4MTU1LC0xMjMyNzAxMjIwLDY2MjA0OTk5MSwyMTg2MTcz
+MDcsLTU1MTUzNzkzNywtMTY2OTQ5NjI0MiwyMjY1MTIxMDAsLT
+QzNTY1NTc0MiwtMTkxNDkzNjAxNCwxNTg1OTExMDAsNjcyNzk3
+MjgzLDk5OTE2MzA1NCwyMDkyNzczMjcyLC04NjU1NzEwNywtMj
+cyNDk2MTE1LDE1OTY2NjU1NjYsMzM0MDA3NzEyXX0=
 -->
