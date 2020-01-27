@@ -41,6 +41,7 @@
 
 |[!["Epigénétique"](https://i.postimg.cc/R04G6B70/IMG-3317.jpg =240x360)](https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc)|[![animals](https://i.postimg.cc/8zhtz5r3/IMG-3319.jpg =240x360)](https://youtu.be/7SnLKq5b5Y0?time_continue=8)|
 
+* [word2Vec visualizations](https://towardsdatascience.com/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d)
 
 
 1. deep learning progress: better, smaller, faster
@@ -319,10 +320,10 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIwOTgxNTUsLTEyMzI3MDEyMjAsNj
-YyMDQ5OTkxLDIxODYxNzMwNywtNTUxNTM3OTM3LC0xNjY5NDk2
-MjQyLDIyNjUxMjEwMCwtNDM1NjU1NzQyLC0xOTE0OTM2MDE0LD
-E1ODU5MTEwMCw2NzI3OTcyODMsOTk5MTYzMDU0LDIwOTI3NzMy
-NzIsLTg2NTU3MTA3LC0yNzI0OTYxMTUsMTU5NjY2NTU2NiwzMz
-QwMDc3MTJdfQ==
+eyJoaXN0b3J5IjpbLTgxMTAyMDk2OCwtMTU4MjA5ODE1NSwtMT
+IzMjcwMTIyMCw2NjIwNDk5OTEsMjE4NjE3MzA3LC01NTE1Mzc5
+MzcsLTE2Njk0OTYyNDIsMjI2NTEyMTAwLC00MzU2NTU3NDIsLT
+E5MTQ5MzYwMTQsMTU4NTkxMTAwLDY3Mjc5NzI4Myw5OTkxNjMw
+NTQsMjA5Mjc3MzI3MiwtODY1NTcxMDcsLTI3MjQ5NjExNSwxNT
+k2NjY1NTY2LDMzNDAwNzcxMl19
 -->
