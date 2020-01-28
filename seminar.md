@@ -49,6 +49,7 @@
   see: https://interestingengineering.com/11-times-ai-beat-humans-at-games-art-law-and-everything-in-between
   - VGG > Inception > Resnet
   - RNN > LSTM > attention networks
+		  see: [https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
   - RL: DeepMind: AlphaGo, AlphaStar, AlphaZero, StarcraftII/Dota2
     see: https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go
   - GAN ? 
@@ -325,11 +326,11 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDE2NTYxOCwtMzQ2ODQ5NzcwLDI0Nj
-Y4OTE0MCwtNDU0NDM1NDczLC04MTEwMjA5NjgsLTE1ODIwOTgx
-NTUsLTEyMzI3MDEyMjAsNjYyMDQ5OTkxLDIxODYxNzMwNywtNT
-UxNTM3OTM3LC0xNjY5NDk2MjQyLDIyNjUxMjEwMCwtNDM1NjU1
-NzQyLC0xOTE0OTM2MDE0LDE1ODU5MTEwMCw2NzI3OTcyODMsOT
-k5MTYzMDU0LDIwOTI3NzMyNzIsLTg2NTU3MTA3LC0yNzI0OTYx
-MTVdfQ==
+eyJoaXN0b3J5IjpbODg5NDE4NDE4LC03MTAxNjU2MTgsLTM0Nj
+g0OTc3MCwyNDY2ODkxNDAsLTQ1NDQzNTQ3MywtODExMDIwOTY4
+LC0xNTgyMDk4MTU1LC0xMjMyNzAxMjIwLDY2MjA0OTk5MSwyMT
+g2MTczMDcsLTU1MTUzNzkzNywtMTY2OTQ5NjI0MiwyMjY1MTIx
+MDAsLTQzNTY1NTc0MiwtMTkxNDkzNjAxNCwxNTg1OTExMDAsNj
+cyNzk3MjgzLDk5OTE2MzA1NCwyMDkyNzczMjcyLC04NjU1NzEw
+N119
 -->
