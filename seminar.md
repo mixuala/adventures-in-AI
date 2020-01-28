@@ -237,6 +237,7 @@ What does the network see? [https://distill.pub/2018/building-blocks/](https://d
 
 Understanding LSTM Networks
 > see: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+> [https://www.youtube.com/watch?v=WCUNPb-5EYI](https://www.youtube.com/watch?v=WCUNPb-5EYI)
 
 The fall of RNN / LSTM
 > see: https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
@@ -326,11 +327,11 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5NDE4NDE4LC03MTAxNjU2MTgsLTM0Nj
-g0OTc3MCwyNDY2ODkxNDAsLTQ1NDQzNTQ3MywtODExMDIwOTY4
-LC0xNTgyMDk4MTU1LC0xMjMyNzAxMjIwLDY2MjA0OTk5MSwyMT
-g2MTczMDcsLTU1MTUzNzkzNywtMTY2OTQ5NjI0MiwyMjY1MTIx
-MDAsLTQzNTY1NTc0MiwtMTkxNDkzNjAxNCwxNTg1OTExMDAsNj
-cyNzk3MjgzLDk5OTE2MzA1NCwyMDkyNzczMjcyLC04NjU1NzEw
-N119
+eyJoaXN0b3J5IjpbLTIwMzI5ODEyNDMsODg5NDE4NDE4LC03MT
+AxNjU2MTgsLTM0Njg0OTc3MCwyNDY2ODkxNDAsLTQ1NDQzNTQ3
+MywtODExMDIwOTY4LC0xNTgyMDk4MTU1LC0xMjMyNzAxMjIwLD
+Y2MjA0OTk5MSwyMTg2MTczMDcsLTU1MTUzNzkzNywtMTY2OTQ5
+NjI0MiwyMjY1MTIxMDAsLTQzNTY1NTc0MiwtMTkxNDkzNjAxNC
+wxNTg1OTExMDAsNjcyNzk3MjgzLDk5OTE2MzA1NCwyMDkyNzcz
+MjcyXX0=
 -->
