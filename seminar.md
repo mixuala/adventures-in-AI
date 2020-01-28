@@ -42,7 +42,7 @@
 |[!["Epigénétique"](https://i.postimg.cc/R04G6B70/IMG-3317.jpg =240x360)](https://www.youtube.com/watch?time_continue=8&v=vwF7AHTQaoc)|[![animals](https://i.postimg.cc/8zhtz5r3/IMG-3319.jpg =240x360)](https://youtu.be/7SnLKq5b5Y0?time_continue=8)|
 
 * [word2Vec visualizations](https://towardsdatascience.com/google-news-and-leo-tolstoy-visualizing-word2vec-word-embeddings-with-t-sne-11558d8bd4d)
-* [http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+* [word embeddings, relationship pairs, shared representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 
 
 1. deep learning progress: better, smaller, faster
@@ -325,11 +325,11 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkzNDI0MjUsLTM0Njg0OTc3MCwyND
-Y2ODkxNDAsLTQ1NDQzNTQ3MywtODExMDIwOTY4LC0xNTgyMDk4
-MTU1LC0xMjMyNzAxMjIwLDY2MjA0OTk5MSwyMTg2MTczMDcsLT
-U1MTUzNzkzNywtMTY2OTQ5NjI0MiwyMjY1MTIxMDAsLTQzNTY1
-NTc0MiwtMTkxNDkzNjAxNCwxNTg1OTExMDAsNjcyNzk3MjgzLD
-k5OTE2MzA1NCwyMDkyNzczMjcyLC04NjU1NzEwNywtMjcyNDk2
-MTE1XX0=
+eyJoaXN0b3J5IjpbLTcxMDE2NTYxOCwtMzQ2ODQ5NzcwLDI0Nj
+Y4OTE0MCwtNDU0NDM1NDczLC04MTEwMjA5NjgsLTE1ODIwOTgx
+NTUsLTEyMzI3MDEyMjAsNjYyMDQ5OTkxLDIxODYxNzMwNywtNT
+UxNTM3OTM3LC0xNjY5NDk2MjQyLDIyNjUxMjEwMCwtNDM1NjU1
+NzQyLC0xOTE0OTM2MDE0LDE1ODU5MTEwMCw2NzI3OTcyODMsOT
+k5MTYzMDU0LDIwOTI3NzMyNzIsLTg2NTU3MTA3LC0yNzI0OTYx
+MTVdfQ==
 -->
