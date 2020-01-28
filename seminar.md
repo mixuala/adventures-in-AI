@@ -83,6 +83,7 @@
   * recurrent 
   ![rnn animation](https://miro.medium.com/max/964/1*xn5kA92_J5KLaKcP7BMRLA.gif)
     * see: https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
+    * see: [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
     * RNN > LSTM > Attention networks
   * variational auto-encoders (VAE)
   * reinforcement learning (RL)
@@ -323,11 +324,11 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2Njg5MTQwLC00NTQ0MzU0NzMsLTgxMT
-AyMDk2OCwtMTU4MjA5ODE1NSwtMTIzMjcwMTIyMCw2NjIwNDk5
-OTEsMjE4NjE3MzA3LC01NTE1Mzc5MzcsLTE2Njk0OTYyNDIsMj
-I2NTEyMTAwLC00MzU2NTU3NDIsLTE5MTQ5MzYwMTQsMTU4NTkx
-MTAwLDY3Mjc5NzI4Myw5OTkxNjMwNTQsMjA5Mjc3MzI3MiwtOD
-Y1NTcxMDcsLTI3MjQ5NjExNSwxNTk2NjY1NTY2LDMzNDAwNzcx
-Ml19
+eyJoaXN0b3J5IjpbLTM0Njg0OTc3MCwyNDY2ODkxNDAsLTQ1ND
+QzNTQ3MywtODExMDIwOTY4LC0xNTgyMDk4MTU1LC0xMjMyNzAx
+MjIwLDY2MjA0OTk5MSwyMTg2MTczMDcsLTU1MTUzNzkzNywtMT
+Y2OTQ5NjI0MiwyMjY1MTIxMDAsLTQzNTY1NTc0MiwtMTkxNDkz
+NjAxNCwxNTg1OTExMDAsNjcyNzk3MjgzLDk5OTE2MzA1NCwyMD
+kyNzczMjcyLC04NjU1NzEwNywtMjcyNDk2MTE1LDE1OTY2NjU1
+NjZdfQ==
 -->
