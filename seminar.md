@@ -245,6 +245,9 @@ Understanding LSTM Networks
 The fall of RNN / LSTM
 > see: https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
 
+Transformer Networks
+> [https://jalammar.github.io/illustrated-transformer/](https://jalammar.github.io/illustrated-transformer/)
+
 Google’s Neural Machine Translation System
 > see: http://tsong.me/blog/google-nmt/
 
@@ -330,11 +333,11 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDMyMjE0MDIsLTIwMzI5ODEyNDMsOD
-g5NDE4NDE4LC03MTAxNjU2MTgsLTM0Njg0OTc3MCwyNDY2ODkx
-NDAsLTQ1NDQzNTQ3MywtODExMDIwOTY4LC0xNTgyMDk4MTU1LC
-0xMjMyNzAxMjIwLDY2MjA0OTk5MSwyMTg2MTczMDcsLTU1MTUz
-NzkzNywtMTY2OTQ5NjI0MiwyMjY1MTIxMDAsLTQzNTY1NTc0Mi
-wtMTkxNDkzNjAxNCwxNTg1OTExMDAsNjcyNzk3MjgzLDk5OTE2
-MzA1NF19
+eyJoaXN0b3J5IjpbNzQ0NjI0OTYzLC0xOTQzMjIxNDAyLC0yMD
+MyOTgxMjQzLDg4OTQxODQxOCwtNzEwMTY1NjE4LC0zNDY4NDk3
+NzAsMjQ2Njg5MTQwLC00NTQ0MzU0NzMsLTgxMTAyMDk2OCwtMT
+U4MjA5ODE1NSwtMTIzMjcwMTIyMCw2NjIwNDk5OTEsMjE4NjE3
+MzA3LC01NTE1Mzc5MzcsLTE2Njk0OTYyNDIsMjI2NTEyMTAwLC
+00MzU2NTU3NDIsLTE5MTQ5MzYwMTQsMTU4NTkxMTAwLDY3Mjc5
+NzI4M119
 -->
