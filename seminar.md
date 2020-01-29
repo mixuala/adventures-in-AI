@@ -247,6 +247,7 @@ The fall of RNN / LSTM
 
 Transformer Networks
 > [https://jalammar.github.io/illustrated-transformer/](https://jalammar.github.io/illustrated-transformer/)
+> [https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 
 Google’s Neural Machine Translation System
 > see: http://tsong.me/blog/google-nmt/
@@ -333,11 +334,11 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NjI0OTYzLC0xOTQzMjIxNDAyLC0yMD
-MyOTgxMjQzLDg4OTQxODQxOCwtNzEwMTY1NjE4LC0zNDY4NDk3
-NzAsMjQ2Njg5MTQwLC00NTQ0MzU0NzMsLTgxMTAyMDk2OCwtMT
-U4MjA5ODE1NSwtMTIzMjcwMTIyMCw2NjIwNDk5OTEsMjE4NjE3
-MzA3LC01NTE1Mzc5MzcsLTE2Njk0OTYyNDIsMjI2NTEyMTAwLC
-00MzU2NTU3NDIsLTE5MTQ5MzYwMTQsMTU4NTkxMTAwLDY3Mjc5
-NzI4M119
+eyJoaXN0b3J5IjpbLTEzNTY3NzU2MDAsNzQ0NjI0OTYzLC0xOT
+QzMjIxNDAyLC0yMDMyOTgxMjQzLDg4OTQxODQxOCwtNzEwMTY1
+NjE4LC0zNDY4NDk3NzAsMjQ2Njg5MTQwLC00NTQ0MzU0NzMsLT
+gxMTAyMDk2OCwtMTU4MjA5ODE1NSwtMTIzMjcwMTIyMCw2NjIw
+NDk5OTEsMjE4NjE3MzA3LC01NTE1Mzc5MzcsLTE2Njk0OTYyND
+IsMjI2NTEyMTAwLC00MzU2NTU3NDIsLTE5MTQ5MzYwMTQsMTU4
+NTkxMTAwXX0=
 -->
