@@ -236,8 +236,7 @@ What does the network see? [https://distill.pub/2018/building-blocks/](https://d
 > see:https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/
 
 
-![imageNet model timeline]
-(https://www.learnopencv.com/wp-content/uploads/2019/06/Model_Timeline.png)
+![imageNet model timeline](https://www.learnopencv.com/wp-content/uploads/2019/06/Model_Timeline.png)
 
 
 
@@ -340,11 +339,11 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1MzY1MDcwLC0xMzU2Nzc1NjAwLDc0ND
-YyNDk2MywtMTk0MzIyMTQwMiwtMjAzMjk4MTI0Myw4ODk0MTg0
-MTgsLTcxMDE2NTYxOCwtMzQ2ODQ5NzcwLDI0NjY4OTE0MCwtND
-U0NDM1NDczLC04MTEwMjA5NjgsLTE1ODIwOTgxNTUsLTEyMzI3
-MDEyMjAsNjYyMDQ5OTkxLDIxODYxNzMwNywtNTUxNTM3OTM3LC
-0xNjY5NDk2MjQyLDIyNjUxMjEwMCwtNDM1NjU1NzQyLC0xOTE0
-OTM2MDE0XX0=
+eyJoaXN0b3J5IjpbLTE1MzQ1Nzg5MTIsLTEzNTY3NzU2MDAsNz
+Q0NjI0OTYzLC0xOTQzMjIxNDAyLC0yMDMyOTgxMjQzLDg4OTQx
+ODQxOCwtNzEwMTY1NjE4LC0zNDY4NDk3NzAsMjQ2Njg5MTQwLC
+00NTQ0MzU0NzMsLTgxMTAyMDk2OCwtMTU4MjA5ODE1NSwtMTIz
+MjcwMTIyMCw2NjIwNDk5OTEsMjE4NjE3MzA3LC01NTE1Mzc5Mz
+csLTE2Njk0OTYyNDIsMjI2NTEyMTAwLC00MzU2NTU3NDIsLTE5
+MTQ5MzYwMTRdfQ==
 -->
