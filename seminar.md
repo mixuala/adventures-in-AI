@@ -235,6 +235,10 @@ What does the network see? [https://distill.pub/2018/building-blocks/](https://d
 10 Advanced Deep Learning Architectures Data Scientists Should Know!
 > see:https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/
 
+![https://www.learnopencv.com/wp-content/uploads/2019/06/Model_Timeline.png]
+(https://www.learnopencv.com/wp-content/uploads/2019/06/Model_Timeline.png)
+
+
 NN Building Blocks
 [https://medium.com/breathe-publication/neural-networks-building-blocks-a5c47bcd7c8d](https://medium.com/breathe-publication/neural-networks-building-blocks-a5c47bcd7c8d)
 
@@ -334,11 +338,11 @@ training data
   * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY3NzU2MDAsNzQ0NjI0OTYzLC0xOT
-QzMjIxNDAyLC0yMDMyOTgxMjQzLDg4OTQxODQxOCwtNzEwMTY1
-NjE4LC0zNDY4NDk3NzAsMjQ2Njg5MTQwLC00NTQ0MzU0NzMsLT
-gxMTAyMDk2OCwtMTU4MjA5ODE1NSwtMTIzMjcwMTIyMCw2NjIw
-NDk5OTEsMjE4NjE3MzA3LC01NTE1Mzc5MzcsLTE2Njk0OTYyND
-IsMjI2NTEyMTAwLC00MzU2NTU3NDIsLTE5MTQ5MzYwMTQsMTU4
-NTkxMTAwXX0=
+eyJoaXN0b3J5IjpbLTIwODY1MjMzNiwtMTM1Njc3NTYwMCw3ND
+Q2MjQ5NjMsLTE5NDMyMjE0MDIsLTIwMzI5ODEyNDMsODg5NDE4
+NDE4LC03MTAxNjU2MTgsLTM0Njg0OTc3MCwyNDY2ODkxNDAsLT
+Q1NDQzNTQ3MywtODExMDIwOTY4LC0xNTgyMDk4MTU1LC0xMjMy
+NzAxMjIwLDY2MjA0OTk5MSwyMTg2MTczMDcsLTU1MTUzNzkzNy
+wtMTY2OTQ5NjI0MiwyMjY1MTIxMDAsLTQzNTY1NTc0MiwtMTkx
+NDkzNjAxNF19
 -->
